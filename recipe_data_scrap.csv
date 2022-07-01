@@ -1,0 +1,3001 @@
+,recipe_name,cuisine,diet
+0,Pan-Fried Zoodles with Sesame and Paneer,Asian,Low-Fat
+1,ROKU TONIC,Indian,Beverage
+2,Sweet 'N' Spicy Mushroom Fry,Asian,Kid-Friendly
+3,Peanut Butter Choco-Cupcakes,British,Kid-Friendly
+4,CHUNCHI PATRA PITHA,Indian,Vegetarian
+5,SWEET POTATO BAKED YOGHURT,Indian,Restaurants
+6,Tawa fried paneer,Indian,Vegetarian
+7,Vanillekipfer Cookies,Indian,Vegetarian
+8,Bread Pakoda,Indian,Vegetarian
+9,Pahadi Bhuna Mutton Curry,Indian,Non-Vegetarian
+10,Cream Rolls,Indian,Vegetarian
+11,Ooty Pumpkin Pie,Indian,Non-Vegetarian
+12,Apple Cobbler,Indian,Vegetarian
+13,Railway Mutton Curry,Indian,Non-Vegetarian
+14,Home-Style Dahi Machcha,Indian,Non-Vegetarian
+15,Sulemani Chai,Indian,Vegetarian
+16,BLUEBERRY PHIRNI,Indian,Vegetarian
+17,Kunafa Recipe,Indian,Vegetarian
+18,Dahi Gujiya,Indian,Vegetarian
+19,MIXED FRUIT GUJJIAS,Indian,Vegetarian
+20,SWEET KACHORIS,Indian,Vegetarian
+21,OATS AND PEANUT LADDOOS,Indian,Vegetarian
+22,Tandoori Salmon,Indian,Non-Vegetarian
+23,Aloo Tamatar Sabzi (Potato and Tomato side),Indian,Vegetarian
+24,Lime Pickle in Sweet Oil,Indian,Vegetarian
+25,Til Poli,Indian,Vegetarian
+26,Shahi Paneer with Cashew Nuts,Indian,Vegetarian
+27,Jain Chole,Indian,Vegetarian
+28,Lauki Koftas Curry without Onion,Indian,Vegetarian
+29,Guava Creamy,Indian,Vegetarian
+30,Veg Noodle Burger,Indian,Vegetarian
+31,Salmon Spread,Continental,Kid-Friendly
+32,Whipped Mango Ice-cream,Indian,Kid-Friendly
+33,Tomato Shallots Chutney,Indian,Vegetarian
+34,Creamy Prawn Risotto,Italian,Non-Vegetarian
+35,Prawn Risotto,Italian,Non-Vegetarian
+36,Chilli Paneer Balls,Indo-Chinese,Vegetarian
+37,Slow-cooked Dal Makhni,Indian,Vegetarian
+38,Shrimp Fried Rice with Vegetables,Thai,Non-Vegetarian
+39,Egg Curry in Coconut Masala,Indian,Non-Vegetarian
+40,Chicken Curry with Sour Cream,Indian,Non-Vegetarian
+41,Coconut Chutney with Red Chillies,Indian,Vegetarian
+42,Indian-style Mushrooms,Indian,Vegetarian
+43,Brinjal With Coconut Masala,Indian,Vegetarian
+44,Christmas Cake with Rum-soaked fruit,American,Festive
+45,Appam with Jaggery,Indian,Vegetarian
+46,Angel of Peace,Indian,Vegetarian
+47,Ambot Tik,Indian,Non-Vegetarian
+48,Grilled Dahi Chicken,Indian,Non-Vegetarian
+49,Akoori (Masala Scrambled Eggs),Indian,Non-Vegetarian
+50,Boneless Chicken Delight,Indian,Non-Vegetarian
+51,Chicken and Almond Soup,Indian,Non-Vegetarian
+52,Dhaniya Chicken,Indian,Non-Vegetarian
+53,Bottle Gourd (Lauki) Kheer,Indian,Kid-Friendly
+54,Apple Cinnamon Pancakes,Anglo-Indian,Kid-Friendly
+55,Apple Banana cupcakes,Continental,Kid-Friendly
+56,Aloo Chips Chaat,Indian,Kid-Friendly
+57,Amla Candy,Indian,Kid-Friendly
+58,Pineapple Jam Crumble,Indian,Kid-Friendly
+59,Chilli Noodle and Cashew Stir-Fry,Chinese,Vegetarian
+60,Green Peas Vada,Indian,Kid-Friendly
+61,Instant rava Idli,Indian,Vegetarian
+62,Apple Orange Icecream Flan,Continental,Kid-Friendly
+63,Special Vada Pav,Indian,Vegetarian
+64,Methi Thepla,Indian,Vegetarian
+65,Ammini Kozhakattai,Indian,Kid-Friendly
+66,Anglo-Indian Steamroller Chicken,Anglo-Indian,Non-Vegetarian
+67,Almond Brandy Cake,Anglo-Indian,Festive
+68,Arhar Ki Dal,Indian,Kid-Friendly
+69,Almond cake,American,Kid-Friendly
+70,South Indian Mutton Curry,Indian,Non-Vegetarian
+71,Apple Pumpkin Muffins,American,Kid-Friendly
+72,Ice Halwa,Indian,Festive
+73,Chikki Jam Roll for Kids,Indian,Kid-Friendly
+74,Amla Sabzi,Indian,Vegetarian
+75,Hawaian Potato Salad,Continental,Low-Calorie
+76,Bitter gourd curry,Indian,Vegetarian
+77,Sweet Potato Jamun with almonds,Indian,Kid-Friendly
+78,Spinach in Curd Raita,Indian,Vegetarian
+79,Indian Paneer Pasanda,Indian,Kid-Friendly
+80,Easy Pepper rasam,Indian,Vegetarian
+81,Aloo Jeera Raita,Indian,Vegetarian
+82,Aloo ka bomb,Indian,Kid-Friendly
+83,Apple Pie,Continental,Festive
+84,Apple Cobbler,Indian,Festive
+85,Stuffed Tangy Bitter Gourd,Indian,Kid-Friendly
+86,Aloo Nirali,Indian,Vegetarian
+87,Sauteed Indonesian Potatoes,Indonesian,Vegetarian
+88,Apple Halwa,Indian,Kid-Friendly
+89,Anglo Indian Pork Bhoonie,Anglo-Indian,Non-Vegetarian
+90,American Cream Cheese Frosting,American,Kid-Friendly
+91,5 Star Diamonds,Indian,Vegetarian
+92,Okra in Indian Spices,Indian,Vegetarian
+93,Aloo Anar Raita,Indian,Kid-Friendly
+94,Almond Kulfi,Indian,Kid-Friendly
+95,Chilli Tofu,Asian,Vegan
+96,MW Jeera Peas Pulao,Indian,Vegetarian
+97,Amla Chutney,Indian,Vegetarian
+98,Peanut Sundal,Indian,Kid-Friendly
+99,Mango Barfi,Indian,Kid-Friendly
+100,Malvani Fish Curry in Coconut,Indian,Non-Vegetarian
+101,Apples Stuffed with Chicken,Continental,Festive
+102,Strawberry Pie,Continental,Festive
+103,Tasty Dal Fry,Indian,Vegetarian
+104,Continental Eggless Cake,Continental,Kid-Friendly
+105,Chicken Pickle,Indian,Non-Vegetarian
+106,Apple and Red Cabbage Soup,Indian,Vegetarian
+107,Instant Mango Pickle,Indian,Vegetarian
+108,Paneer Gobi,Indian,Vegetarian
+109,Aloo Capsicum,Indian,Vegetarian
+110,Apple Kheer,Indian,Festive
+111,Amritsari Machhi Fry,Indian,Non-Vegetarian
+112,Apple Betty,American,Kid-Friendly
+113,Dahi Aloo Gravy,Indian,Festive
+114,Apple and Mango Pickle,Indian,Vegetarian
+115,Singapore Noodles,Singapore,Non-Vegetarian
+116,Ambakalya,Indian,Festive
+117,Amaretti Cookies,Italian,Vegan
+118,Aloo Mattar,Indian,Vegetarian
+119,Aloo gobi,Indian,Vegetarian
+120,Aloo-Phali Sabji (potato- Long beans Stir fry),Indian,Vegetarian
+121,Saboodana Thalipeeth,Indian,Vegetarian
+122,Clear Soup,Indian,Vegetarian
+123,Lemon pickle with Red Chillies,Indian,Vegetarian
+124,Easy Chicken Fry for Parties,Indian,Non-Vegetarian
+125,Steamed Dhoklas,Indian,Non-Vegetarian
+126,Ande Palakwale,Indian,Non-Vegetarian
+127,Eggless waffles with wholewheat flour,American,Vegetarian
+128,Amriki salad,American,Vegetarian
+129,Almond and Fig Peda,Indian,Kid-Friendly
+130,Aloo chutneywale,Indian,Vegetarian
+131,Andhra Mutton Mushroom Sukka,Indian,Non-Vegetarian
+132,Amvade,Indian,Kid-Friendly
+133,Pickled Mangoes in Sesame Oil,Indian,Vegetarian
+134,Aloo Tikki,Indian,Vegetarian
+135,Fish and Tomato Tenga,Indian,Non-Vegetarian
+136,Kulkuls for Kids,Indian,Kid-Friendly
+137,Apple and Paneer Basundi,Indian,Kid-Friendly
+138,Aloo Choliya (Potato Green Chickpea Curry ),Indian,Vegetarian
+139,7 Cups Burfi,Indian,Kid-Friendly
+140,Sauteed Spring Onions,Indian,Vegetarian
+141,Potatoes in Cumin Masala,Indian,Vegetarian
+142,Adrak Navratan,Indian,Kid-Friendly
+143,Adi - Muglai Lauki,Indian,Vegetarian
+144,Amchoor (Dried Mango) Powder,Indian,Vegetarian
+145,Akbari Vegetables,Indian,Vegetarian
+146,Aloo Rasedar,Indian,Vegetarian
+147,Coconut Dosa,Indian,Vegetarian
+148,Minced Meat Kofta,Indian,Non-Vegetarian
+149,Deep fried Chicken,Indian,Non-Vegetarian
+150,Ras Malai with Eggs,Indian,Kid-Friendly
+151,South-style Chicken Kurma,Indian,Non-Vegetarian
+152,Hakka Noodles,Chinese,Vegetarian
+153,Andhra chicken curry,Indian,Non-Vegetarian
+154,Aloo Capsicum Boats,Indian,Vegetarian
+155,Baby Corn Rice with green chilli pickle,Indian,Vegetarian
+156,Moong Dal Masala Vada,Indian,Kid-Friendly
+157,All-Whole-Wheat Sourdough Bread,Continental,Vegan
+158,Anglo-Indian Mustard Sauce,Anglo-Indian,Vegetarian
+159,Coriander Fish,Indian,Non-Vegetarian
+160,Ready to make rava idli,Indian,Kid-Friendly
+161,Thai Celery and coconut cream soup,Thai,Non-Vegetarian
+162,Almond Toast,Indian,Kid-Friendly
+163,Fruit Salad With full Cream,Indian,Vegetarian
+164,3 Minute Mamra Upma,Indian,Kid-Friendly
+165,Almond Butter,American,Vegan
+166,Dhokla,Indian,Vegetarian
+167,Apple Sauce Doughnuts,Continental,Kid-Friendly
+168,Alu Pita,Indian,Kid-Friendly
+169,Traditional Xmas cake,Anglo-Indian,Kid-Friendly
+170,Apple Jelly Delight,American,Kid-Friendly
+171,Tangy Chana Dal Chutney,Indian,Vegetarian
+172,Akbari Murg-bhat,Indian,Non-Vegetarian
+173,Amboli,Indian,Vegetarian
+174,Army Camp Soup,Anglo-Indian,Non-Vegetarian
+175,Anjeer Barfi,Indian,Vegetarian
+176,Continental Strawberry Parfait,Continental,Kid-Friendly
+177,Aloo Sarson Posta,Indian,Vegetarian
+178,Chilli Capsicum,Indian,Vegetarian
+179,Adai,Indian,Low-Calorie
+180,Anglo-Burmese Piajo Soup,Anglo-Indian,Non-Vegetarian
+181,Aaviri Kudumu (Steamed Urad Dal Dumplings),Indian,Vegetarian
+182,Cabbage Kofta,Indian,Vegetarian
+183,Chana Dal-Cheese Kofta Curry,Indian,Vegetarian
+184,Aam ka Paratha stuffed with Chhunda,Indian,Vegetarian
+185,Hawaian Shake,Indian,Kid-Friendly
+186,Aam ka meetha,Indian,Vegetarian
+187,Almond Brownies,Continental,Kid-Friendly
+188,Kofta Biryani,Indian,Vegetarian
+189,Almond Praline with Vanilla Ice Cream,American,Kid-Friendly
+190,Kolkata Doi Mach,Indian,Non-Vegetarian
+191,Banana Drink with chocolate syrup,Indian,Vegetarian
+192,Apricot White Chocolate Pulla,Continental,Kid-Friendly
+193,Kerala Fish Curry,Indian,Non-Vegetarian
+194,Anzac Biscuits,Indian,Kid-Friendly
+195,Apple jalebi,Continental,Kid-Friendly
+196,Rose Flavoured Thandai,Indian,Vegetarian
+197,Andhra Style Raw Mango Pickle,Indian,Vegetarian
+198,Aglio olio pasta,Italian,Vegetarian
+199,Fruit Salad with cream,Indian,Kid-Friendly
+200,Amla Grape Juice,Indian,Kid-Friendly
+201,Alighari Aloo Potato,Indian,Vegetarian
+202,Amb Khatta (Mango Pickle),Indian,Vegetarian
+203,Alu Palak Pulao,Indian,Vegetarian
+204,Apple Tart 'Maman Blanc',Continental,Kid-Friendly
+205,Anglo Indian roast beef,Anglo-Indian,Non-Vegetarian
+206,Apple Crumble Tarts,Continental,Vegetarian
+207,Gajar ka pulao,Indian,Vegetarian
+208,Honey Carrot Kheer,Indian,Vegetarian
+209,Amazing Corn Cake,American,Kid-Friendly
+210,Yellow Coconut rice with Saffron,Anglo-Indian,Vegetarian
+211,Paneer Fried Rice,Indian,Vegetarian
+212,Phoolgobi chawal,Indian,Vegetarian
+213,Andhra Gongura Thokku,Indian,Vegetarian
+214,Egg Roll Snack,Indian,Non-Vegetarian
+215,Fried Crab Masala,Indian,Non-Vegetarian
+216,A Rendezvous with Rice,Anglo-Indian,Vegetarian
+217,Chicken with Lychees,Chinese,Non-Vegetarian
+218,30-minute Cauliflower Kurma,Indian,Vegetarian
+219,Iyengar Mangai pachadi,Indian,Vegetarian
+220,American Cheese Pudding,American,Kid-Friendly
+221,Aebleskivers,Indian,Vegetarian
+222,Aloo Spinach pancakes,Indian,Vegetarian
+223,Aloo Paneer Curry,Indian,Vegetarian
+224,Apple Khova Crumble,Indian,Vegetarian
+225,Amla Honey Shot,Indian,Kid-Friendly
+226,Ariselu,Indian,Kid-Friendly
+227,Anglo-Indian Meat Vindaloo,Anglo-Indian,Non-Vegetarian
+228,Mango Kulfi,Indian,Kid-Friendly
+229,Ananas rasam,Indian,Kid-Friendly
+230,Jackfruit Curry,Indian,Vegetarian
+231,Amba Burfi,Indian,Festive
+232,Aam ki lassi,Indian,Vegetarian
+233,Pineapple Kesari,Indian,Festive
+234,Vegetable patties,Indian,Vegetarian
+235,Drumstick Kootu,Indian,Vegetarian
+236,Almond Milk,Indian,Kid-Friendly
+237,Almond Pancakes,Continental,Vegan
+238,Aloo Bhajiyas,Indian,Vegetarian
+239,Andhra Chicken Kurma,Indian,Non-Vegetarian
+240,Aloo Baigan (Brinjal) Ki Sabzi,Indian,Vegetarian
+241,Ada,Indian,Vegetarian
+242,All-In-One Dal,Indian,Vegetarian
+243,Aamor Asar,Indian,Vegetarian
+244,Anjeer ke kofte,Indian,Vegetarian
+245,Ari Payasam,Indian,Festive
+246,Adrak and Ajwain Flavoured Lassi,Indian,Festive
+247,Ananas (Pineapple) Pulao,Indian,Vegetarian
+248,Gujarati Thepla,Indian,Vegetarian
+249,Cheese Sauce Dip,Indian,Kid-Friendly
+250,Aloo pulao,Indian,Vegetarian
+251,Apple Pachadi,Indian,Kid-Friendly
+252,Muffin with onions,Indian,Kid-Friendly
+253,Apricot Cream and Pear Sandwich,Indian,Kid-Friendly
+254,Cabbage Pakoda,Indian,Vegetarian
+255,Apple Pudding,Continental,Kid-Friendly
+256,Appam,Indian,Kid-Friendly
+257,Indian Ivy Gourd Fry,Indian,Vegetarian
+258,Tasty Masala Vadai,Indian,Kid-Friendly
+259,Almond Fried Fish with Ginger Sauce,Chinese,Non-Vegetarian
+260,Almond Capsicum Stew,Continental,Vegetarian
+261,Aloo Cheese Ka Paratha,Indian,Vegetarian
+262,Pav Bhaji,Indian,Kid-Friendly
+263,Prawn Toast,Chinese,Non-Vegetarian
+264,Arbi Ki Sabzi,Indian,Vegetarian
+265,Andhra Mamidi Pappu (Mango Dal),Indian,Vegetarian
+266,Andhra gongura pachadi,Indian,Vegetarian
+267,Araichu Vitta Sambar,Indian,Vegetarian
+268,Yellow Moong Dal with Spinach,Indian,Vegetarian
+269,Aloo Paneer Kofta Curry,Indian,Vegetarian
+270,South Indian Lemon rasam,Indian,Vegetarian
+271,Doi Mach,Indian,Non-Vegetarian
+272,Aloo and Baigan Pakodas,Indian,Vegetarian
+273,Cheese Loaf,Indian,Vegetarian
+274,Arabian Lentil Soup,Arab,Non-Vegetarian
+275,Almond Cashew Curry,Indian,Vegetarian
+276,Indian Thekua,Indian,Kid-Friendly
+277,Almond Payasam,Indian,Vegetarian
+278,Chicken Serunding in rich coconut milk,Malaysian,Non-Vegetarian
+279,Aate Ka Halwa,Indian,Kid-Friendly
+280,Almond Butter Cake,Indian,Kid-Friendly
+281,Cold Cucumber Soup,Indian,Vegetarian
+282,Spiced Indian Chicken,Indian,Non-Vegetarian
+283,Alu matki usal,Indian,Vegetarian
+284,Alasanda vadium ( lobiya cryspies),Indian,Vegetarian
+285,Deep fried Prawn Balls,Indian,Non-Vegetarian
+286,Aloo Jeera,Indian,Vegetarian
+287,Sri Lankan Fish Curry,Sri-Lankan,Non-Vegetarian
+288,French Doughnuts,French,Kid-Friendly
+289,Bengali Tangy Fish Curry,Indian,Non-Vegetarian
+290,Aloo Palak,Indian,Vegetarian
+291,Aloo paratha,Indian,Vegetarian
+292,Lasuni Dal Vada,Indian,Festive
+293,Sauteed Thai Fried Rice,Thai,Festive
+294,French Toast with Herbs for Breakfast,Continental,Non-Vegetarian
+295,Arbi-Yam Oondhiya,Indian,Vegetarian
+296,Indian Drumstick Kootu,Indian,Vegetarian
+297,Coconut Kadhi with Kokam,Indian,Vegetarian
+298,Aloo Bhath,Indian,Vegetarian
+299,Apple Raisin Christmas Pie,Continental,Festive
+300,Almond Meringue Torte,Anglo-Indian,Kid-Friendly
+301,Easy to make Birthday Cake,Indian,Kid-Friendly
+302,Green Mango Curry with Pineapple,Indian,Vegetarian
+303,Apple Pancakes,Indian,Festive
+304,Apple coleslaw,American,Kid-Friendly
+305,Indian String Beans Curry,Indian,Vegetarian
+306,Aloo Poha,Indian,Kid-Friendly
+307,Amita Khar,Indian,Vegetarian
+308,Aam aur kele ka rasayan,Indian,Vegetarian
+309,Adai (Dhal Dosa),Indian,Vegetarian
+310,Anglo-Burmese Khow Suey,Anglo-Indian,Non-Vegetarian
+311,Aam ka kulfi,Indian,Kid-Friendly
+312,Continental Egg Salad,Continental,Festive
+313,Onion Garlic Chutney with Pepper,Indian,Vegetarian
+314,Ada dosa,Indian,Vegetarian
+315,Bittersweet Chocolate Cake,Continental,Non-Vegetarian
+316,Easy Bread Pizza,Continental,Vegetarian
+317,Egg Manchurian,Indo-Chinese,Kid-Friendly
+318,American Mojito Martini,American,Festive
+319,Aloo Pastry Puffs,Indian,Vegetarian
+320,Anglo Indian Waldorf Salad,Anglo-Indian,Vegetarian
+321,Festive Eggnog,Continental,Festive
+322,Hara Murg,Indian,Non-Vegetarian
+323,Breadfruit (Kadachakka) Fritters,Continental,Vegetarian
+324,Eggless Wholewheat Waffles,American,Kid-Friendly
+325,Fish Bread Roll,Indian,Non-Vegetarian
+326,Chicken Roast with Indian Spices,Indian,Non-Vegetarian
+327,Ambrosia Fruit Salad,Indian,Kid-Friendly
+328,Upma Pidi Kozhukattai,Indian,Kid-Friendly
+329,Amritsari fish with salmon,Indian,Non-Vegetarian
+330,Almond yogurt,Indian,Kid-Friendly
+331,Andhra Chicken Shashlik Masal,Indian,Non-Vegetarian
+332,Aamras with Poori,Indian,Vegetarian
+333,Ammini (mini) kozhukattai,Indian,Festive
+334,Mullangi kootu,Indian,Vegetarian
+335,5 Minutes Chocolate Mousse,English,Kid-Friendly
+336,Kerala Fish Stew,Indian,Non-Vegetarian
+337,Mediterranean Chick Pea Salad,Mediterranean,Kid-Friendly
+338,Firni,Indian,Vegetarian
+339,Aloo De Sagaan,Indian,Vegetarian
+340,Indian Dhaniya Chicken,Indian,Non-Vegetarian
+341,Ajwain Kulcha - Carrom seeds Kulcha,Indian,Kid-Friendly
+342,Almond Crush,Indian,Kid-Friendly
+343,Akhini,Indian,Non-Vegetarian
+344,All Spice Powder (Garam Masala Powder),Indian,Vegetarian
+345,Alphabet Soup,Continental,Vegetarian
+346,Mango Pickle with Indian Spices,Indian,Vegetarian
+347,Anjaraipetti Kuzhambu,Indian,Vegetarian
+348,Raw Banana Pulitta Koottu,Indian,Vegetarian
+349,Tortellini With Shiitakes and Peas,Italian,Vegetarian
+350,Velvety Green Curry with Peas and Mushrooms,Indian,Vegan
+351,Paneer with Gravy,Indian,Vegetarian
+352,Dalma,Indian,Kid-Friendly
+353,Paasi Paruppu Pesarattu,Indian,Kid-Friendly
+354,Golden Shrimp Vada,Indian,Non-Vegetarian
+355,Aapam with thengaipal,Indian,Kid-Friendly
+356,Almond macaroons,Indian,Kid-Friendly
+357,Appalam Vatha Kozhambhu,Indian,Vegetarian
+358,Arabian Pulao,Indian,Non-Vegetarian
+359,Chilled Mango Kulfi,Indian,Kid-Friendly
+360,Almond Bark,Indian,Festive
+361,Indian Lapsee,Indian,Festive
+362,Amaranthus Sambar,Indian,Kid-Friendly
+363,Aam ki subzi,Indian,Kid-Friendly
+364,2-Seeds Crackers,Indian,Kid-Friendly
+365,Cheese Mince Pancakes,Continental,Non-Vegetarian
+366,Alu matar ka pie,Indian,Non-Vegetarian
+367,Achari Paneer Tikka,Indian,Vegetarian
+368,Apple Juice,Indian,Kid-Friendly
+369,Indian Drumstick Curry,Indian,Vegetarian
+370,Aloo Bhindi Masala,Indian,Kid-Friendly
+371,Apple rasam,Indian,Vegetarian
+372,8-minute Cheese Cake,Continental,Festive
+373,Apricot nectar,Continental,Kid-Friendly
+374,Vegetable Stew under 30 minutes,Indian,Vegetarian
+375,Arabian Rice,Middle-East,Non-Vegetarian
+376,Mumbaiya Pav Bhaji,Indian,Kid-Friendly
+377,Arbi With Mustard Masala,Indian,Vegetarian
+378,American Cabinet Pudding,American,Kid-Friendly
+379,Arabic Cheese Roll,Arab,Vegetarian
+380,Dahi Wada,Indian,Vegetarian
+381,Stuffed Triangles,Indian,Festive
+382,Mixed Veggies Kootu,Indian,Vegetarian
+383,Dal-Cheese Kofta Curry,Indian,Kid-Friendly
+384,Akki roti with cabbage palya,Indian,Vegetarian
+385,Apricot Fudge,Continental,Festive
+386,Hard boiled Egg Curry,Indian,Non-Vegetarian
+387,Aloo banda (Alu Choup),Indian,Vegetarian
+388,Kokum Kadi,Indian,Vegetarian
+389,Indian Chilli Crab Masala,Indian,Non-Vegetarian
+390,Arikkadukka (Stuffed mussels),Indian,Non-Vegetarian
+391,Ankurit Moth Salad,Indian,Vegetarian
+392,Khara Boondhi,Indian,Vegetarian
+393,Mughlai Murg,Indian,Non-Vegetarian
+394,Aloo chana Masala,Indian,Vegetarian
+395,Hawaian Confections,American,Kid-Friendly
+396,Chicken Gravy in Yoghurt,Indian,Non-Vegetarian
+397,Aam panna,Indian,Kid-Friendly
+398,Spicy Brinjal Stew,Indian,Vegetarian
+399,Aloo Tuk Chaat,Indian,Vegetarian
+400,Tangy Grilled Veggies,Indian,Vegetarian
+401,Almond Rice Kheer,Indian,Vegetarian
+402,Mushroom Masala for Bachelors,Indian,Festive
+403,Easy Chocolate Ice Cream,American,Kid-Friendly
+404,Aloo methi dry,Indian,Vegetarian
+405,Almond kesari,Indian,Festive
+406,Almond soup,Indian,Kid-Friendly
+407,Dal Chutney,Indian,Vegetarian
+408,Aloo Ki Khatti Tarkari,Indian,Vegetarian
+409,Garlic Chutney with Cilantro,Indian,Vegetarian
+410,Asian Chilli Beef with Leeks,Asian,Non-Vegetarian
+411,Ambshi Tikshi Kadi - Fish,Indian,Non-Vegetarian
+412,Apple Bread Butter Pudding,Continental,Kid-Friendly
+413,Brussels Sprouts Curry,Indian,Kid-Friendly
+414,Almond Modak,Indian,Festive
+415,Aloo Kasoori Methi,Indian,Vegetarian
+416,Aloo Bhatt,Indian,Vegetarian
+417,Masaledar Baingan Raita,Indian,Vegetarian
+418,Aloo Capsicum Sabji,Indian,Vegetarian
+419,Apple and Raisin Curry,Indian,Vegetarian
+420,Aachari Chicken,Indian,Non-Vegetarian
+421,Sour fish curry,Indian,Non-Vegetarian
+422,Aam Kali,Indian,Vegetarian
+423,Kannvali Roti,Indian,Vegetarian
+424,African Sweet Potato-Peanut Stew,African,Vegan
+425,Almond Bars With A Citrusy Glaze,American,Vegan
+426,Apricot Oat Muffins,American,Kid-Friendly
+427,Berry Banana Crepes for Breakfast,Continental,Kid-Friendly
+428,Anglo Indian Grilled Prawns,Anglo-Indian,Non-Vegetarian
+429,Egg and Milk Ada,Indian,Non-Vegetarian
+430,Anglo-Indian Meat Pepper Fry,Anglo-Indian,Non-Vegetarian
+431,Goan Pork Masala,Indian,Non-Vegetarian
+432,Deep Fried Egg Snack,Indian,Kid-Friendly
+433,Peanut Chutney,Indian,Vegetarian
+434,Aata ka seera,Indian,Festive
+435,Apple and Celery Soup,Continental,Kid-Friendly
+436,5 -Minutes Zucchini Pickle,American,Vegetarian
+437,Almond milk semiya kesari,Indian,Kid-Friendly
+438,Ananas Sandesh,Indian,Kid-Friendly
+439,Baby corn Rice,Indian,Vegetarian
+440,Onion Pachadi,Indian,Vegetarian
+441,Dahi Chicken,Indian,Non-Vegetarian
+442,Afghani Dal,Afghani,Vegetarian
+443,Anaarkli Bhel,Indian,Vegetarian
+444,Apricot And Date Wine,Anglo-Indian,Festive
+445,Anjeer Delight,Indian,Festive
+446,Brinjal Muttabal,Indian,Vegetarian
+447,Aratikay Pulisu (banana),Indian,Vegetarian
+448,Caramel Custard,Indian,Kid-Friendly
+449,Amaranth Stem and Jack Fruit Seeds Palya,Indian,Vegetarian
+450,Amaranth Stem and Jack Fruit Seeds Palya,Indian,Vegetarian
+451,Aloo Sandwich,Indian,Vegetarian
+452,Apple Meringue Dessert,American,Non-Vegetarian
+453,Stewed Lasuni Fish,Indian,Non-Vegetarian
+454,Anjeer khajur kulfi,Indian,Festive
+455,Sweet Poha with Jaggery,Indian,Kid-Friendly
+456,Festive Mysore Pak,Indian,Festive
+457,Ada Dosai and Coconut Thuvayal,Indian,Vegetarian
+458,Adai with Dals,Indian,Vegetarian
+459,American Sev Puri,Indo-American,Vegetarian
+460,Continental Deviled Eggs,Continental,Non-Vegetarian
+461,Fenugreek Chicken,Indian,Non-Vegetarian
+462,Chicken Serunding,Malaysian,Non-Vegetarian
+463,Vegetarian Omelette for Breakfast,Indian,Vegetarian
+464,Goan Lean Pork Vindaloo,Goan,Non-Vegetarian
+465,Apple Muffins,Continental,Kid-Friendly
+466,Green Chilli chicken,Indian,Non-Vegetarian
+467,Aalu Bonda AP style,Indian,Vegetarian
+468,Apple Fritters,Anglo-Indian,Festive
+469,Yummy Coconut Custard,Continental,Kid-Friendly
+470,Aloo Chaat,Indian,Vegetarian
+471,Indian Almond and Mushroom Soup,Indian,Vegetarian
+472,Amrtisari Machli,Indian,Non-Vegetarian
+473,Allu Manchuria,Indian,Vegetarian
+474,Aloo ki puris,Indian,Vegetarian
+475,Almond Biscuits with Orange Butter cream,American,Kid-Friendly
+476,Adai Dosa,Indian,Kid-Friendly
+477,Apple Pie Bars,American,Kid-Friendly
+478,Sweet Puri with Jaggery,Indian,Vegetarian
+479,Apple Rings,Continental,Kid-Friendly
+480,Amrakhand,Indian,Festive
+481,White Poppy seeds halwa,Indian,Kid-Friendly
+482,Ambrosia Crepes,Continental,Festive
+483,Anglo-Indian Cream Of Vegetable Soup,Anglo-Indian,Vegetarian
+484,Bitter gourd With Fresh Yoghurt,Indian,Vegetarian
+485,Aam ki lanji chutney,Indian,Vegetarian
+486,Strawberry Parfait,Continental,Kid-Friendly
+487,Aloo Bahaar-e-Dum,Indian,Vegetarian
+488,Madras Vada Curry,Indian,Vegetarian
+489,Apple Custard Muffin,Indian,Kid-Friendly
+490,Cucumber kootu,Indian,Vegetarian
+491,Americano,Continental,Festive
+492,Indian Patishapta,Indian,Festive
+493,Amla Murabba,Indian,Vegetarian
+494,Brinjal Curd Raita,Indian,Vegetarian
+495,Sweet Steamed Idlis,Indian,Vegetarian
+496,Anokhi Simple Mutton Biryani,Indian,Non-Vegetarian
+497,Bottle Gourd Curry,Indian,Vegetarian
+498,Chinese Sticks,Indo-Chinese,Kid-Friendly
+499,Chinese Chilli Capsicum,Chinese,Vegetarian
+500,Aloo Bokhara Pickle,Indian,Vegetarian
+501,Egg Delight,Indian,Non-Vegetarian
+502,Chick Pea Salad,Indian,Vegetarian
+503,Amla (Indian Gooseberry) Marmalade,Indian,Kid-Friendly
+504,Continental Mayonnaise,Continental,Kid-Friendly
+505,Instant Mixed Dal Dosai,Indian,Kid-Friendly
+506,Andhra Style Chicken Fry,Indian,Non-Vegetarian
+507,Dalsa,Indian,Vegetarian
+508,Apple and Mint Chutney,Indian,Vegetarian
+509,Aloo Soya Tikki,Indian,Vegetarian
+510,Almond Cashew Curry with spices,Indian,Festive
+511,Rava Cake with Dry Fruits,Indian,Festive
+512,Angel Hair Pasta With Green Beans And Mushrooms,Italian,Vegan
+513,Arisi Vella Puttu,Indian,Festive
+514,Almond And Chocolate Fingers,Indian,Kid-Friendly
+515,Crab Chilly,Indian,Non-Vegetarian
+516,Anapa ginjala pulusu,Indian,Vegetarian
+517,Aloo Vada Curry,Indian,Vegetarian
+518,Apple Rabadi,Indian,Kid-Friendly
+519,Apple Cake with Caramel-Pecan Glaze,American,Kid-Friendly
+520,Aamras ke Malai Alu,Indian,Vegetarian
+521,Chicken kuzhambu with Coconut Milk,Indian,Non-Vegetarian
+522,Aapam,Indian,Vegetarian
+523,Garma Garam Zucchini Stir Fry,Anglo-Indian,Vegetarian
+524,Apricot Gingerly Smoothie,Continental,Vegetarian
+525,Cucumber Soup for summers,Indian,Vegetarian
+526,Aloo Wadi (Patra),Indian,Vegetarian
+527,Cheese Salad,Continental,Vegetarian
+528,Easy Aloo Curry,Indian,Vegetarian
+529,Appetising Russian Salad,Indian,High-Protein
+530,Coconut Custard,Anglo-Indian,Festive
+531,Egg Pudding,Indian,Non-Vegetarian
+532,Anarsa (Sweet Dish),Indian,Festive
+533,Arabic Kafta Kebab,Arab,Non-Vegetarian
+534,Date Halwa,Anglo-Indian,Festive
+535,Drumstick Soup,Indian,Vegetarian
+536,Ada prathaman,Indian,Vegetarian
+537,Aloo Aur Ande Ki Tikki,Indian,Non-Vegetarian
+538,Aloo and Til Sabzi,Indian,Vegetarian
+539,Egg Bhurji Roll for Kids,Indian,Kid-Friendly
+540,Aloo Matar Tehri (Matar Vadi Wale Chawal),Indian,Vegetarian
+541,Sukha Anda Masala,Indian,Non-Vegetarian
+542,Indian Pomfret Curry,Indian,Non-Vegetarian
+543,Al-Poshe Pakora (Pumpkin Flower Pakora),Indian,Vegetarian
+544,Cabbage Adai,Indian,Low-Calorie
+545,Tasty Vadai,Indian,Vegetarian
+546,Apple Sandesh,Indian,Kid-Friendly
+547,Idli Pakoda,Indian,Vegetarian
+548,Cream Chicken,Indian,Non-Vegetarian
+549,Sri Lankan Fish Stew,Sri-Lankan,Non-Vegetarian
+550,Crunchy Hawaian Chicken wrap,Continental,Non-Vegetarian
+551,Aloo Gobi Fry,Indian,Kid-Friendly
+552,Achaari bhindi,Indian,Vegetarian
+553,Almond Chikki,Indian,Festive
+554,Aripathiri (Rice flour chapatti),Indian,Vegetarian
+555,Andhra Pudi,Indian,Vegetarian
+556,Dal Vada Recipe,Indian,Kid-Friendly
+557,Arai keerai charu,Indian,Vegetarian
+558,Apple Scones,Continental,Kid-Friendly
+559,7 cup cake (besan katli),Indian,Vegetarian
+560,Dahi Aloo,Indian,Vegetarian
+561,Holiday Fudge,Continental,Festive
+562,Cheesy Orange Floats,Indian,Kid-Friendly
+563,Vellai Dosai,Indian,Vegetarian
+564,Vegetable Curry,Indian,Vegetarian
+565,Apple Sauce,Continental,Vegetarian
+566,Arabic Shrimps with Cumin,Arab,Non-Vegetarian
+567,Karaikudi Keerai Kootu,Indian,Vegetarian
+568,Til Gud Chappati,Indian,Kid-Friendly
+569,Gujarati Gevar,Indian,Festive
+570,Aloo Dhania Parathas,Indian,Vegetarian
+571,4 Minute Dosa,Indian,Kid-Friendly
+572,Gaajar ka kofta,Indian,Vegetarian
+573,Apple and Raisin Salad,Indian,Vegetarian
+574,Indian Sorra Puttu,Indian,Non-Vegetarian
+575,Vanilla Flavoured Caramel Custard,Continental,Festive
+576,Sarson Saag,Indian,Vegetarian
+577,Aloo Kichidi,Indian,Vegetarian
+578,Capsicum Curry with Peanuts,Indian,Vegetarian
+579,Sweet Potato Kheer for Festivals,Indian,Festive
+580,Arbi seekh kabab,Indian,Non-Vegetarian
+581,Arisi Upma Kozhakattai,Indian,Vegetarian
+582,Akbari Paneeer,Indian,Vegetarian
+583,5 Minute Rasam,Indian,Vegetarian
+584,Aloo Cheese Cutlets,Indian,Vegetarian
+585,Apple Gojju,Indian,Vegetarian
+586,Anglo-Indian Mince Ball Curry,Anglo-Indian,Non-Vegetarian
+587,Veg kurma with coconut,Indian,Kid-Friendly
+588,Aloo Ka Achar,Indian,Vegetarian
+589,Apple Cinnamon Jam,Indian,Kid-Friendly
+590,Ragi roti,Indian,Vegetarian
+591,Karivepilai Chutney,Indian,Vegetarian
+592,Apple chutney,Indian,Vegetarian
+593,Drumstick Curry,Indian,Non-Vegetarian
+594,American Fruit Salad,American,Vegetarian
+595,Crab masala,Indian,Non-Vegetarian
+596,Fig ice cream for Kids,Indian,Kid-Friendly
+597,Chilled Mango and Peach Cream,Continental,Vegetarian
+598,Indian Prawn vindaloo,Indian,Non-Vegetarian
+599,Apple Sauce Cake,American,Kid-Friendly
+600,Onion Curry with coconut,Indian,Vegetarian
+601,Simple eggplant curry,Indian,Kid-Friendly
+602,Anglo-Indian Brinjal Curry,Anglo-Indian,Vegetarian
+603,Indian Mushroom soup,Indian,Vegetarian
+604,Tangy Cabbage Vada with coconut,Indian,Kid-Friendly
+605,Eggnog,English,Festive
+606,Apple Halwa with Dry Fruits,Indian,Festive
+607,Andhra Chicken Fry,Indian,Non-Vegetarian
+608,Alu-Poha Chatpata,Indian,Vegetarian
+609,Almond Flavored Carrot Burfi,Indian,Festive
+610,American Rolls,American,Non-Vegetarian
+611,Indian Dalsa,Indian,Vegetarian
+612,Aamras,Indian,Vegetarian
+613,Aloo Mutter with tomatoes,Indian,Vegetarian
+614,Arayes,Lebanese,Non-Vegetarian
+615,Aloo Methi,Indian,Kid-Friendly
+616,Arisi Payaru Sundal,Indian,High-Protein
+617,Aloo Poori,Indian,Vegetarian
+618,Apple and Apricot Pudding,English,Kid-Friendly
+619,Jackfruit halwa for Kids,Indian,Kid-Friendly
+620,Healthy Mulligatawny Soup,Anglo-Indian,Vegetarian
+621,Aloo (Potato) Tikki,Indian,Vegetarian
+622,Almond caramel float,Continental,Festive
+623,Apple strudel,Continental,Vegetarian
+624,Achari Prawn Pulao,Indian,Festive
+625,Apple Oats Crumb,Continental,Kid-Friendly
+626,Appam with coconut water,Indian,Kid-Friendly
+627,Rice Flour Ghee Roti,Indian,Vegetarian
+628,Chocolate Custard,Anglo-Indian,Festive
+629,Aloo Noodle Cutlet,Indian,Vegetarian
+630,Ande Ka Salan,Indian,Non-Vegetarian
+631,Mixed vegetable Saagu,Indian,Vegetarian
+632,Coconut Milk Rice,Indian,Vegetarian
+633,Appam - Hoppers,Sri-Lankan,Vegetarian
+634,Khoya,Indian,Kid-Friendly
+635,Festive Sakkarai Pongal,Indian,Festive
+636,American Lemon Cheesecake,American,Festive
+637,Sweet Pongal for Festivals,Indian,Kid-Friendly
+638,Hawaian Salad,American,Vegetarian
+639,Mutton Uppu Kandam,Indian,Non-Vegetarian
+640,Carrot Bajji,Indian,Kid-Friendly
+641,Chilli Chicken,Indian,Non-Vegetarian
+642,Khoya for Kids,Indian,Kid-Friendly
+643,Chuck Burger,American,Non-Vegetarian
+644,Continental Banana Bread,Continental,Vegetarian
+645,Alu Mayonnaise,Indian,Vegetarian
+646,Anjeer Almond ki Katli,Indian,Kid-Friendly
+647,American Chopsuey,American,Kid-Friendly
+648,Aloo Masaledar,Indian,Vegetarian
+649,Ven Pongal,Indian,Festive
+650,Amritsari Fish,Indian,Non-Vegetarian
+651,Adhirasam,Indian,Festive
+652,Aloo Baingan Curry,Indian,Vegetarian
+653,Apple crisp,Indian,Kid-Friendly
+654,Golden Sajjappa,Indian,Festive
+655,Cardamom Flavoured Banana Lassi,Indian,Kid-Friendly
+656,Arisi maavu roti,Indian,Vegetarian
+657,Alo jilo,Indian,Vegetarian
+658,Anchovies Sambal,Malaysian,Non-Vegetarian
+659,Achari Chicken,Indian,Non-Vegetarian
+660,Appams,Indian,Vegetarian
+661,Aam Johra,Indian,Festive
+662,Chilli Paneer,Indian,Vegetarian
+663,Aam Ka Achar,Indian,Vegetarian
+664,Amchoor Chutney,Indian,Festive
+665,Cauliflower Rice,Indian,Vegetarian
+666,Paal Payasam,Indian,Kid-Friendly
+667,Appam with mashed bananas,Indian,Kid-Friendly
+668,Ajwain Ki Chai,Indian,Vegetarian
+669,Spicy Vegetable and Lentils Pulao,Indian,Vegetarian
+670,Golden Macaroni Pakoda,Indian,Vegetarian
+671,Appe,Indian,Festive
+672,Almond Nescafe Cookies,Continental,Kid-Friendly
+673,Angel Cake dessert,Continental,Festive
+674,Curry Leaves Chutney,Indian,Vegetarian
+675,Pineapple Stuffed Triangles,Indian,Vegetarian
+676,Arabic Shawarma,Arab,Non-Vegetarian
+677,Apple Cup Cakes,Continental,Kid-Friendly
+678,Choco ice cream,Indian,Kid-Friendly
+679,Goondh Pak for kids,Indian,Kid-Friendly
+680,Lemon Pickle,Indian,Vegetarian
+681,Easter Egg Salad,Continental,Festive
+682,Aloo - Papad,Indian,Vegetarian
+683,Adharak ki chutney,Indian,Vegetarian
+684,Aanapakaya Payasam,Indian,Festive
+685,Festive Besan Mysore Pak,Indian,Festive
+686,Aloogadde Palya,Indian,Vegetarian
+687,American Chop Suey,Chinese,Non-Vegetarian
+688,Anglo Indian Vegetable Patties,Anglo-Indian,Non-Vegetarian
+689,Muglai Paneer,Indian,Vegetarian
+690,Agathi keerai curry,Indian,Vegetarian
+691,Almond Vanilla Custard Ice Cream - Kulfi,Indian,Kid-Friendly
+692,Anarkali,Indian,Vegetarian
+693,Aloo Parantha,Indian,Kid-Friendly
+694,Akara Vadisal,Indian,Kid-Friendly
+695,Amti (Maharashtrian Dal),Indian,Vegetarian
+696,Appetising Salad,Continental,Vegetarian
+697,Kadalai Curry,Indian,Vegetarian
+698,Aatte Ke Laddoo,Indian,Festive
+699,Apple Cheese Sandwich,Continental,Kid-Friendly
+700,Semolina Kesari with Pineapple,Indian,Festive
+701,Suji Bread in Malai,Indian,Vegetarian
+702,3-Berry Lemon Trifle,American,Kid-Friendly
+703,Cheese Bacon Omelette,Continental,Non-Vegetarian
+704,Poori Payasam,Indian,Kid-Friendly
+705,Almond tabbouleh,Arab,Vegetarian
+706,Egg Batura,Indian,Non-Vegetarian
+707,Veg Kurma,Indian,Vegetarian
+708,Alu bhath,Indian,Vegetarian
+709,Alleppey Fish Curry,Indian,Non-Vegetarian
+710,Afghani chicken korma,Afghani,Non-Vegetarian
+711,Agar Agar pudding,Indian,Kid-Friendly
+712,Amritsari laccha paratha,Indian,Vegetarian
+713,Aloo Dahi Wada,Indian,Kid-Friendly
+714,Almond Burfi,Indian,Kid-Friendly
+715,Anglo-Indian Pepper Water,Anglo-Indian,Vegetarian
+716,Almorth (Mixed Meat and vegetable Stew),Anglo-Indian,Non-Vegetarian
+717,Amla rice,Indian,Vegetarian
+718,American Corn Curry,Indo-American,Vegetarian
+719,Chickpeas curry,Indian,Vegetarian
+720,Aleti Paleti,Indian,Festive
+721,Aam Dal,Indian,Vegetarian
+722,Tamarind rasam,Indian,Vegetarian
+723,Arab Falafel,Arab,Vegetarian
+724,Aloo Pauwa (Poha),Indian,Vegetarian
+725,Apple and date porridge,Indian,Vegetarian
+726,Aloo Tikki (Potato Cutlets),Indian,Vegetarian
+727,Continental Bread Sticks,Continental,Vegetarian
+728,Fish Roll,Continental,Non-Vegetarian
+729,Low Fat Diet Salad,Continental,Low-Fat
+730,Spinach Dal with Tomatoes,Indian,Vegetarian
+731,Tangy Spinach Gravy,Indian,Vegetarian
+732,Arabic Breakfast,Middle-East,Vegetarian
+733,Tangy Eggplant Gotsu,Indian,Vegetarian
+734,Anglo-Indian hot masala chops,Anglo-Indian,Non-Vegetarian
+735,Aloo Sev,Indian,Vegetarian
+736,Apple Mint Tea,American,Low-Calorie
+737,Aam ka Panna,Indian,Vegetarian
+738,Apple Chocolate Smoothie,Indian,Vegetarian
+739,Palak Sambar,Indian,Vegetarian
+740,"Apple, Orange and Celery Blend",Indian,Kid-Friendly
+741,Aamrakhand,Indian,Kid-Friendly
+742,Aam ka Ras,Indian,Kid-Friendly
+743,Punjabi Murg Makhani,Indian,Non-Vegetarian
+744,Amaretto Cake,Continental,Non-Vegetarian
+745,Chinese Prawn Toast,Chinese,Non-Vegetarian
+746,Traditional Christmas Cake,American,Festive
+747,Leftover Idli Pakoda,Indian,Vegetarian
+748,Chilled Strawberry Souffle,Indian,Vegetarian
+749,Indian Patholi,Indian,Festive
+750,Ajwain Lachha Paratha,Indian,Kid-Friendly
+751,Hawaian rolls,Indian,Vegetarian
+752,Afghan Kadhai,Afghani,Non-Vegetarian
+753,Apple Pie for Easter,Continental,Festive
+754,American Stuffed tomatoes,American,Vegetarian
+755,Peas Pulav,Indian,Vegetarian
+756,Green Peas Pulav,Indian,Kid-Friendly
+757,Butter Chicken,Indian,Non-Vegetarian
+758,Anglo-Indian Mince Paste Sandwiches,Anglo-Indian,Non-Vegetarian
+759,Semolina halwa with nuts,Indian,Kid-Friendly
+760,African Chicken Wings,African,Non-Vegetarian
+761,Mango Mawa Barfi,Indian,Kid-Friendly
+762,Sesame Chicken Salad,Indian,Non-Vegetarian
+763,Amritsari Kulcha,Indian,Vegetarian
+764,Cheese Potato Puris,Indian,Kid-Friendly
+765,Ada Pradhaman,Indian,Festive
+766,Apple Beet Cucumber Juice,Indian,Vegetarian
+767,Almond Cashew Halwa,Indian,Festive
+768,Doi potol,Indian,Vegetarian
+769,Anglo- Indian Brain Cutlets,Anglo-Indian,Non-Vegetarian
+770,Apple bulghar,Indian,Vegetarian
+771,Plain Egg Salad,Indian,Non-Vegetarian
+772,Akki Unde Kadubu,Indian,Vegetarian
+773,Apple Wine,Anglo-Indian,Festive
+774,Arborio Rice in Buttermilk,Indian,Vegetarian
+775,Apple Milkshake,Indian,Vegetarian
+776,Tangy Groundnut Thokku,Indian,Vegetarian
+777,Mayonnaise,Continental,Non-Vegetarian
+778,Manga Kadala,Indian,Vegetarian
+779,Ambat bhat,Indian,Vegetarian
+780,Apricot Summer Sundae,American,Kid-Friendly
+781,Almond Carrot Kheer,Indian,Festive
+782,Asian Noodles,Asian,Vegetarian
+783,Vanilla Lassi,Indian,Vegetarian
+784,Macaroni Pakoda,Indian,Kid-Friendly
+785,Appetising Jeera Goli,Indian,Vegetarian
+786,Apple Bajji,Indian,Kid-Friendly
+787,Aaoshi Smoked Pork with Fermented Soya Bean,Indian,Non-Vegetarian
+788,Sweet Rava Idly with Jaggery,Indian,Kid-Friendly
+789,Alchikeri,Indian,Vegetarian
+790,Gaajar chawal,Indian,Vegetarian
+791,Apple Jam,Continental,Kid-Friendly
+792,Easy Microwave Carrot Halwa,Indian,Kid-Friendly
+793,Cabbage Pakodi ki subzi,Indian,Vegetarian
+794,Capsicum Masala Curry,Indian,Vegetarian
+795,Mutton chops with Indian Spices,Indian,Non-Vegetarian
+796,Aamai Vadai,Indian,Vegetarian
+797,Anglo-Indian Savoury Mince Cutlets,Anglo-Indian,Non-Vegetarian
+798,Hot Sweet Sour Paste,Indian,Vegetarian
+799,All India Kootu,Indian,Vegetarian
+800,Marinated Chicken Tikka Masala,Indian,Non-Vegetarian
+801,Appam Batter,Indian,Vegetarian
+802,Kali Mirch Murg,Indian,Non-Vegetarian
+803,Chini Hakka Noodles,Chinese,Kid-Friendly
+804,Chicken with Coriander and Mint,Indian,Non-Vegetarian
+805,3 Flour Sukhadi,Indian,Festive
+806,Alisa (Cracked Wheat With Mutton Porridge),Indian,Non-Vegetarian
+807,Andhra Chicken,Indian,Non-Vegetarian
+808,American Short Bread Cookies,American,Kid-Friendly
+809,Eggless Cake,Indian,Kid-Friendly
+810,American Hot Chicken Wings,American,Non-Vegetarian
+811,Amritphal,Indian,Vegetarian
+812,Fish in Buttermilk Masala,Indian,Non-Vegetarian
+813,Aloo Moong Dal Karara Wala,Indian,High-Protein
+814,Inji oorugai,Indian,Vegetarian
+815,Alu Paratha,Indian,Vegetarian
+816,Paneer in Tomato Gravy,Indian,Vegetarian
+817,Khus-Khus Naan,Indian,Vegetarian
+818,Chicken in Vinegar,Indian,Non-Vegetarian
+819,Kabuli,Asian,Kid-Friendly
+820,Andhra Stuffed Brinjal,Indian,Vegetarian
+821,Kabuli Chana with Potatoes,Indian,Vegetarian
+822,American Chocolate Vanilla Cake,American,Festive
+823,Poosanikai ( Ash Gourd) kootu,Indian,Vegetarian
+824,Aloo Gobi Masala,Indian,Vegetarian
+825,Ajwain Poori,Indian,Vegetarian
+826,Hawaii Toast,Indian,Vegetarian
+827,Andhra Style Chilli Chicken,Indian,Non-Vegetarian
+828,1-2-3 Chilli Chicken,Indian,Non-Vegetarian
+829,Mango Pickle for All,Indian,Kid-Friendly
+830,Appetising Gobi Manchurian,Chinese,Kid-Friendly
+831,Rice Flour Pindi,Indian,Kid-Friendly
+832,Hari Mirch ka Hara Halwa,Indian,Vegetarian
+833,Til aur Gud ka Chappati,Indian,Vegetarian
+834,Andhra Palli Chutney,Indian,Vegetarian
+835,Apple and Apricot Sandesh Pudding,Indian,Vegetarian
+836,American Spinach Pie,American,Kid-Friendly
+837,Hawaian Ginger Saffron Ice Cream,Continental,Vegetarian
+838,Amarantha Stems and Jack Fruit Seed Sukke,Indian,Vegetarian
+839,Aate Ki Pinni,Indian,Vegetarian
+840,Tomato Side Dish,Indian,Vegetarian
+841,Almond Halwa,Indian,Vegetarian
+842,Amritsari Chole,Indian,Vegetarian
+843,Apple Cheddar Crumble,American,Kid-Friendly
+844,Anglo-Indian Pork Vindaloo,Anglo-Indian,Non-Vegetarian
+845,Almond Date Rolls,Indian,Kid-Friendly
+846,Palak Paneer with Tomatoes,Indian,Vegetarian
+847,Tandoori Masala Chicken Biryani,Indian,Non-Vegetarian
+848,Caramel Pudding for Kids,Anglo-Indian,Kid-Friendly
+849,Andhra Kadhi,Indian,Vegetarian
+850,Almond Cappuccino,Continental,Vegetarian
+851,Anjeer Slices,Indian,Kid-Friendly
+852,Achari Gosht Aur Hari Mirch,Pakistani,Non-Vegetarian
+853,Kulkuls,Indian,Kid-Friendly
+854,Aloo Bharta,Indian,Vegetarian
+855,American Strawberry Mousse,American,Kid-Friendly
+856,Indian Shukto,Indian,Vegetarian
+857,Amla Pickle,Indian,Vegetarian
+858,Sweet Potato Pone with Eggs,Indian,Festive
+859,Jeera Pulao with peas,Indian,Vegetarian
+860,Amla ka Pickle,Indian,Vegetarian
+861,Aniseed Sherbet,Indian,Vegetarian
+862,Stuffed Ghrekins,Indian,Vegetarian
+863,Healthy Ragi Dosa,Indian,Vegetarian
+864,Healthy Ragi Roti,Indian,Vegetarian
+865,Acquacotta,Italian,Non-Vegetarian
+866,5 Cup Sweet,Indian,Festive
+867,American Salad in Indian Style,Indo-American,Vegetarian
+868,Almond Chocolate Fudge,Anglo-Indian,Festive
+869,Aaloo-Baingan Mash,Indian,Vegetarian
+870,Salami Cocktail,Indian,Festive
+871,Apricot Bars,Indian,Festive
+872,Aloo Mutter,Indian,Vegetarian
+873,Aloo Baigain (Potato and Brinjal),Indian,Vegetarian
+874,Apple compote,American,Kid-Friendly
+875,Chinese Green Onion Pancakes,Chinese,Non-Vegetarian
+876,American Butter Cream,American,Vegetarian
+877,Apple Cider Doughnut,Continental,Vegetarian
+878,Arbi-Methi Kadhi,Indian,Vegan
+879,Apple Banana Carrot (ABC) Halwa,Indian,Kid-Friendly
+880,Almond Chocolate Pudding,Indian,Vegetarian
+881,Aattu Kaal Soup (Paaya),Indian,Non-Vegetarian
+882,Amritsari Baigan,Indian,Vegetarian
+883,Vada roll,Indian,Kid-Friendly
+884,Arisa Pitha,Indian,Kid-Friendly
+885,Apple Choco Shake,Indian,Kid-Friendly
+886,Chilled Shrikhand,Indian,Kid-Friendly
+887,Aloo ka chow chow,Indian,Vegetarian
+888,Chilled Strawberry Cake,Continental,Vegetarian
+889,Adrak Masala Chai,Indian,Vegetarian
+890,Besan Gatte ki Sabzi,Indian,Vegetarian
+891,Almond and Pistachio Dessert,Continental,Kid-Friendly
+892,Aamti,Indian,Vegetarian
+893,Apple Roll with Vanilla Cream,Indian,Kid-Friendly
+894,Aloo Karela Subzi,Indian,Vegetarian
+895,Almond Icing,Anglo-Indian,Festive
+896,Stuffed Tomatoes,Indian,Vegetarian
+897,Aloo Tuk,Indian,Festive
+898,Alpine Muesli with Red and Green Grapes,American,Vegetarian
+899,String beans curry,Indian,Vegetarian
+900,Almond and Orange Rava Kesari,Indian,Festive
+901,Arisium Paruppu,Indian,Vegetarian
+902,Aloo chole,Indian,Vegetarian
+903,Aloo Kheer,Indian,Vegetarian
+904,Aloo Beans,Indian,Vegetarian
+905,Almond Custard,Anglo-Indian,Festive
+906,Coconut Milk Dosas,Indian,Vegetarian
+907,Egg Masala Curry,Indian,Non-Vegetarian
+908,Chicken with Asaparagus Salad,American,Non-Vegetarian
+909,Achar Timun,Malaysian,Vegetarian
+910,Aloo-Pulses Kichdi,Indian,Vegetarian
+911,Angoor Basundi,Indian,Kid-Friendly
+912,Apple Custard Pie,American,Kid-Friendly
+913,Continental Pineapple Souffle,Continental,Kid-Friendly
+914,Kootu,Indian,Vegetarian
+915,Aloo matar,Indian,Vegetarian
+916,Quick Coconut Burfi with Ghee,Indian,Kid-Friendly
+917,Eggless Banana Cake with Cinnamon,Indian,Kid-Friendly
+918,Apple Mor Kuzhambu,Indian,Vegetarian
+919,Apple Tokku,Indian,Vegetarian
+920,Achaari Mushroom and Peas Pulav,Indian,Vegetarian
+921,Spinach Curd Raita,Indian,Vegetarian
+922,Almond Butter crunch Candy,American,Festive
+923,Shrimp Vada,Indian,Non-Vegetarian
+924,Walnut Chutney with curd,Indian,Vegetarian
+925,Afghani Baingan,Indian,Vegetarian
+926,Amrakand,Indian,Vegetarian
+927,"Apple, Celery and Walnut Salad",Continental,Kid-Friendly
+928,Grilled Meat Kofta,Indian,Non-Vegetarian
+929,All Purpose Pooris,Indian,Vegetarian
+930,Apple Country Chicken Thighs,Continental,Non-Vegetarian
+931,Anarsa,Indian,Vegetarian
+932,Paneer Methi,Indian,Vegetarian
+933,Apple And Peanut Butter Wrap,Anglo-Indian,Vegetarian
+934,Aloo Bonda,Indian,Vegetarian
+935,Ande Ka Mitha,Indian,Non-Vegetarian
+936,A Salute to the Tricolour: Cool Salad,Indian,Festive
+937,Continental Egg Pudding,Continental,Festive
+938,Appetising Shahi paneer,Indian,Vegetarian
+939,Machi Biriyani,Indian,Festive
+940,Andhra Pesarattu,Indian,Vegetarian
+941,Clay pot Soya Bean Paneer,Chinese,Non-Vegetarian
+942,Keema Kofta Biryani,Indian,Non-Vegetarian
+943,Almond Nankathai,Indian,Festive
+944,Anda Pav,Indian,Kid-Friendly
+945,Mixed vegetable korma,Indian,Vegetarian
+946,Soya Bean Paneer,Continental,Non-Vegetarian
+947,Yummy Peas Pulao,Indian,Vegetarian
+948,Aloo rasawalla,Indian,Vegetarian
+949,Ajwain flavored roti,Indian,Kid-Friendly
+950,Aloo Channa Ghessi,Indian,Vegetarian
+951,Amritsari Chhole,Indian,Vegetarian
+952,Chocolate Fudge Cake,Continental,Kid-Friendly
+953,Anglo Indian Fish Croquettes,Anglo-Indian,Non-Vegetarian
+954,Almond Cookies,American,Kid-Friendly
+955,Almond Seera,Indian,Kid-Friendly
+956,Karivepilai Sambar,Indian,Vegetarian
+957,Indian Spicy Roti,Indian,Vegetarian
+958,Mixed Veg Curry in Tomato gravy,Indian,Vegetarian
+959,Apple Cream Delight,Continental,Kid-Friendly
+960,American Strawberry Pie,American,Kid-Friendly
+961,Apple Raita,Indian,Vegetarian
+962,Aloo Samosas,Indian,Vegetarian
+963,Indian Dal Makhni for All,Indian,Kid-Friendly
+964,Moong Dal palak,Indian,Vegetarian
+965,Caramel Pudding,Continental,Kid-Friendly
+966,Golden Cabbage Potato Pakoda,Indian,Kid-Friendly
+967,Aate Ke Ladoo,Indian,Vegetarian
+968,Spicy Curry Leaf Aloo,Indian,Vegetarian
+969,Mulinja Haaq (Greens of Kohlrabi),Indian,Vegetarian
+970,Almond carrot grape smoothie,Indian,Vegetarian
+971,Oats Upma,Indian,Kid-Friendly
+972,Aloo Cucumber Curry,Indian,Vegetarian
+973,Akki (Rice Flour) Roti,Indian,Vegetarian
+974,Rich Mutton Biryani with Indian Spices,Indian,Non-Vegetarian
+975,Christmas Fudge,Continental,Festive
+976,Aam pora Shorbot,Indian,Vegetarian
+977,Capers Dip,Indian,Kid-Friendly
+978,Keerai Kootu,Indian,Vegetarian
+979,Apple Banana Salad,Indian,Kid-Friendly
+980,All fruit salad,Indian,Vegetarian
+981,Christmas Rum And Raisin Cake,Anglo-Indian,Festive
+982,Chilli Ginger Chicken,Indian,Non-Vegetarian
+983,Star Fruit Preserve,Indian,Vegetarian
+984,Mint Pulao with Potatoes,Indian,Vegetarian
+985,Chicken Cutlet in white sauce,Continental,Non-Vegetarian
+986,Machi Dhaniawala,Continental,Non-Vegetarian
+987,Aate Ki Raab,Indian,Festive
+988,Ajwain Water,Indian,Vegetarian
+989,Chundole (Mutton Roast),Indian,Non-Vegetarian
+990,Arbi Sabzi,Indian,Vegetarian
+991,Machuri,Indian,Kid-Friendly
+992,Anardhana Churan,Indian,Vegetarian
+993,Apple cake,American,Vegetarian
+994,Amma's Khichdi,Indian,Kid-Friendly
+995,Curry Leaf Spiced Potatoes,Indian,Vegetarian
+996,Egg Coconut Masala Curry,Indian,Non-Vegetarian
+997,Peas vada,Indian,Kid-Friendly
+998,Anzac Biscuits with Rolled Oats,Indian,Kid-Friendly
+999,Cheese Mini Puri Sandwiches,Indian,Kid-Friendly
+1000,Aloo Omelette,Indian,Non-Vegetarian
+1001,Achaari Aloo,Indian,Vegetarian
+1002,Brinjal Perugu Pachadi,Indian,Vegetarian
+1003,Gobi (Cauliflower) ka kheema,Indian,Vegetarian
+1004,Green Onion Pancakes,Indian,Non-Vegetarian
+1005,Anglo-Indian Beef And Vegetable Stew,Anglo-Indian,Non-Vegetarian
+1006,Agra Petha,Indian,Kid-Friendly
+1007,A Quick and Simple Mutton Lamb Curry,Anglo-Indian,Non-Vegetarian
+1008,Apricot and custard delight,American,Kid-Friendly
+1009,Guntur Chicken,Indian,Non-Vegetarian
+1010,Coconut Pancakes,Anglo-Indian,Kid-Friendly
+1011,Khara Boondhi for Diwali,Indian,Kid-Friendly
+1012,Diced Mushroom Masala with Spring Onions,Indian,Vegetarian
+1013,Carrot Koftas In Creamy Float,Indian,Vegetarian
+1014,Apple Crumble Pudding,Indian,Kid-Friendly
+1015,Aloo Wadi,Indian,Vegetarian
+1016,Amruthaphala Coconut Milk Fudge,Indian,Kid-Friendly
+1017,Sago Kheer,Indian,Kid-Friendly
+1018,Continental Chocolate Fudge Cake,Continental,Festive
+1019,Aloo Dum,Indian,Vegetarian
+1020,Aloo bonda with brown rice,Indian,Vegetarian
+1021,Vegetables in Vinegar,Indian,Vegetarian
+1022,Crab Meat Masala,Indian,Non-Vegetarian
+1023,Appam with Yeast,Indian,Vegetarian
+1024,Andae Ke Lawaze,Indian,Kid-Friendly
+1025,Aloo Tamatar Palak,Indian,Vegetarian
+1026,Valencian Rice,Continental,Vegetarian
+1027,Achari Gobhi,Indian,Vegetarian
+1028,Veg Momos,Tibetan,Festive
+1029,Mixed Vegetable Casserole,Anglo-Indian,Kid-Friendly
+1030,Tripuri Pork Salad,Indian,Non-Vegetarian
+1031,Apricot Health Drink,Indian,Vegetarian
+1032,Fruit and nut sandwich,American,Kid-Friendly
+1033,Grape Milk Shake,Indian,Vegetarian
+1034,Appetising Matar Paneer,Indian,Vegetarian
+1035,Gundruk and Sinki Soup,Indian,Vegetarian
+1036,Aam Ki Gutli,Indian,Kid-Friendly
+1037,Apple and plum crumble for kids,Continental,Kid-Friendly
+1038,Chinese Spring Rolls,Chinese,Vegetarian
+1039,Veg Club Sandwich,Continental,Kid-Friendly
+1040,Angel Food Candy,Continental,Festive
+1041,Maharastrian Vada Pav,Indian,Vegetarian
+1042,Easy Aloo Gobi,Indian,Vegetarian
+1043,Aloo Poshto,Indian,Vegetarian
+1044,Bhindi Kurkuri,Indian,Vegetarian
+1045,Apple Tuna Sandwich,American,Non-Vegetarian
+1046,Fried Channa Dal,Indian,Festive
+1047,7 Cups Sweet,Indian,Kid-Friendly
+1048,Chocolate Burfi,Indian,Festive
+1049,Zarda Gane Ras Ka,Indian,Vegetarian
+1050,Fruity Glace Icing,Indian,Festive
+1051,Walnut Pudding,Indian,Festive
+1052,Apple Cider,Indian,Vegetarian
+1053,Almond Pudding,Indian,Festive
+1054,Urad dal chutney,Indian,Vegetarian
+1055,Egg Roll,Indian,Kid-Friendly
+1056,Batatya Chya Kachrya,Indian,Vegetarian
+1057,Sofyani Pullao,Indian,Non-Vegetarian
+1058,Almond Omelette,American,Non-Vegetarian
+1059,Veggie Wrap,Continental,Kid-Friendly
+1060,Vegetable Pie,Continental,Vegetarian
+1061,Peanut Curd chutney,Indian,Festive
+1062,Fruit Pooranpoli,Indian,Kid-Friendly
+1063,"Apple, Banana and Carrot Halwa",Indian,Kid-Friendly
+1064,Unni Appam,Indian,Festive
+1065,Apple Tea,Mediterranean,Vegetarian
+1066,Udupi Dosa,Indian,Vegetarian
+1067,Creamy Prawn Curry with Papaya,Indian,Non-Vegetarian
+1068,Vegetables Basket,Indian,Vegetarian
+1069,Cold Coffee Crunch,Anglo-Indian,Festive
+1070,Yummy Mutton Biryani,Indian,Non-Vegetarian
+1071,Vegetable Frankie,Indian,Vegetarian
+1072,"Yogurt, Pineapple, Banana Whip",Anglo-Indian,Festive
+1073,Maharashtrian Goda (Black) Masala,Indian,Vegetarian
+1074,Traditional Omelette Curry,Indian,Non-Vegetarian
+1075,Traditional Ven Pongal,Indian,Vegetarian
+1076,Yogurt Dip,Indian,Festive
+1077,Zucchini and Tomato chutney,Indian,Vegetarian
+1078,Tasty Fish Fry,Indian,Non-Vegetarian
+1079,Aloo Tikki for Weight Watchers,Indian,Vegetarian
+1080,Wheat Pinnie,Indian,Vegetarian
+1081,Plain Microwave Chicken Curry,Indian,Non-Vegetarian
+1082,Grilled Tomato Pickups,Indian,Kid-Friendly
+1083,Vegetable Seekh Kebab,Indian,Vegetarian
+1084,Mangai Arachu Kalaki,Indian,Vegetarian
+1085,Vatha Kuzambhu,Indian,Vegetarian
+1086,Veggie Corn,Indian,Vegetarian
+1087,Triple treat chutney,Indian,Vegetarian
+1088,Aloo Paratas,Indian,Vegetarian
+1089,Italian Risotto,Continental,Non-Vegetarian
+1090,Vermicelli Burfi,Indian,Festive
+1091,Almond Kova Burfi,Indian,Festive
+1092,Blueberry and Kiwi Moulds,American,Vegetarian
+1093,Cheesy Peppery Slices,Continental,Kid-Friendly
+1094,Pumpkin Cutlets,Chinese,Vegetarian
+1095,Choco-Nut Cake,Indian,Festive
+1096,Traditional Vegetable Manchurian,Indian,Non-Vegetarian
+1097,Plain Lauki-Tamatar Subzi,Indian,Vegetarian
+1098,Plain Mexican Tacos,Mexican,Vegetarian
+1099,Stuffed Egg Fuyong,Chinese,Non-Vegetarian
+1100,Raspberry Chocolate,Continental,Vegetarian
+1101,Traditional Roast Beef Sandwiches,Anglo-Indian,Non-Vegetarian
+1102,Tri Ratan Koki,Indian,Vegetarian
+1103,Wheat Rava Dosa,Indian,Vegetarian
+1104,Vaishakhi paratha,Indian,Vegetarian
+1105,Mint Chutney Sandwiches,Anglo-Indian,Kid-Friendly
+1106,Wheat Flakes-Oat Phirni,Indian,Kid-Friendly
+1107,Vegetable Chunks in Tomato Gravy,Indian,Vegetarian
+1108,Pomegranate Sprout Bhel,Indian,Low-Calorie
+1109,Spicy Lentil rice,Indian,Vegetarian
+1110,Aloo Methi with Dry Methi leaves,Indian,Kid-Friendly
+1111,Traditional Tomato Bhath,Indian,Vegetarian
+1112,Chayote Squash,Indian,Vegetarian
+1113,Turai ki chutney,Indian,Vegetarian
+1114,Unda puttu,Indian,Non-Vegetarian
+1115,Chicken Pickle in Vinegar,Anglo-Indian,Non-Vegetarian
+1116,Plain Aloo Posto,Indian,Vegetarian
+1117,Goan Chicken Vindaloo,Indian,Festive
+1118,Wheat Flakes-Potato Papadums,Indian,Kid-Friendly
+1119,Vegetable Bhath,Indian,Vegetarian
+1120,Fruit Cake with Apricot Jam,American,Kid-Friendly
+1121,Egg Chicken,Indian,Non-Vegetarian
+1122,Whacky Cake,American,Kid-Friendly
+1123,Festive Badam Kheer,Indian,Vegetarian
+1124,Mixed Vegetable Pancakes - Waffles,Indian,Kid-Friendly
+1125,Amchoor Powder,Indian,Vegetarian
+1126,Aloo Tikkia,Indian,Festive
+1127,Kashmiri mirch Crab Curry,Indian,Non-Vegetarian
+1128,Yummy Sponge Cake,English,Kid-Friendly
+1129,Plantain bajji,Indian,Vegetarian
+1130,Tuna And Pasta Bake,Anglo-Indian,Non-Vegetarian
+1131,Almond Halwa with Saffron,Indian,Festive
+1132,Vegetarian Palak rice,Indian,Vegetarian
+1133,Lauki masala,Indian,Vegetarian
+1134,Tuvar Masala Bath,Indian,Vegetarian
+1135,Vathakuzhambu thokku,Indian,Vegetarian
+1136,Aloo Palak Masala,Indian,Vegetarian
+1137,Vanilla Gateaux,French,Kid-Friendly
+1138,Zero oil mixed vegetable curry,Indian,Vegetarian
+1139,Crab Vindaloo,Indian,Non-Vegetarian
+1140,Almond Tikki with Chhole,Indian,Vegetarian
+1141,Potato jeera fry,Indian,Vegetarian
+1142,Tropical Milk Shake,Indian,Kid-Friendly
+1143,Vegetable Masala Sandwich,Indian,Vegetarian
+1144,Turai Coconut,Indian,Vegetarian
+1145,Saffron Coconut Rice,Indian,Vegetarian
+1146,Kothamalli Rice,Indian,Vegetarian
+1147,Tamarind Raita,Indian,Vegetarian
+1148,Veggi Fried Rice,Chinese,Vegetarian
+1149,Lemonade with watermelons,Continental,Kid-Friendly
+1150,Instant Kuzhi Paniyaaram,Indian,Vegetarian
+1151,Ajwain Halwa,Indian,Festive
+1152,Zaikedar palak,Indian,Vegetarian
+1153,Kiwiango,Indian,Vegetarian
+1154,Vendakkai Morkozhambu,Indian,Vegetarian
+1155,Simple Bottle Gourd Halwa,Indian,Vegetarian
+1156,White Radish Greens Vegetable,Indian,Vegetarian
+1157,Vegetable Club Sandwiches,Anglo-Indian,Kid-Friendly
+1158,Vanilla Flavored Chocolate Fudge with Nuts,Anglo-Indian,Festive
+1159,Tuna Dip,Continental,Kid-Friendly
+1160,Aloo Methi with Drumstick Leaves,Indian,Vegetarian
+1161,Tortilla Spring Rolls,Indian,Vegetarian
+1162,Veg Hotpot,Indian,Vegetarian
+1163,Yoghurt Shorba,Indian,Vegetarian
+1164,Vegetable Cutlet,Indian,Vegetarian
+1165,Sea Crabs Coconut Fry,Indian,Non-Vegetarian
+1166,Dahi Parwal,Indian,Vegetarian
+1167,Wholesome Cutlets,Indian,Vegetarian
+1168,Yummy Mutton Curry,Indian,Non-Vegetarian
+1169,Vaal Dal Pulav,Indian,Vegetarian
+1170,Amrood ki chutney,Indian,Vegetarian
+1171,Simple Sambar,Indian,Vegetarian
+1172,White Pumpkin - Ash Gourd Curry,Anglo-Indian,Vegetarian
+1173,Yummy pepper Chicken,Indian,Non-Vegetarian
+1174,Yummy Thayir Vadai,Indian,Kid-Friendly
+1175,Aloo Hara Masala,Indian,Vegetarian
+1176,Vada Hariyali,Indian,Kid-Friendly
+1177,Vermicelli and Mango Dessert,Indian,Festive
+1178,Tropical Pinch,Indian,Kid-Friendly
+1179,Vegetable Lollipop,Indian,Vegetarian
+1180,Hot Chocolate Fudge,Continental,Festive
+1181,Date and Lentil Pulao,Indian,Vegetarian
+1182,Spicy Tender Vegan Mix,Indian,Vegan
+1183,Traditional Vegetable Pulao,Indian,Vegetarian
+1184,Easy Prawn pakoda,Indian,Non-Vegetarian
+1185,Gaajar ka Halwa,Indian,Kid-Friendly
+1186,Vegetable Pancake,Indian,Non-Vegetarian
+1187,Vegetables in Stir Fried Noodles,Thai,Vegetarian
+1188,Amritsari Machli (Fish),Indian,Non-Vegetarian
+1189,Aloo Saag,Indian,Vegetarian
+1190,Amla Quick Chutney,Indian,Vegetarian
+1191,Daal Dost,Indian,Non-Vegetarian
+1192,Turkey Burgers,American,Kid-Friendly
+1193,Egg Curry in Tomato Gravy,Indian,Non-Vegetarian
+1194,Chicken Tikka Gravy,Indian,Festive
+1195,Zucchini Pickle,Indian,Vegetarian
+1196,Aamras with Kesar,Indian,Kid-Friendly
+1197,Quick Aloo Palak,Indian,Vegetarian
+1198,Dry Fruit Beverage,Indian,Kid-Friendly
+1199,Akoori on Toast,Indian,Non-Vegetarian
+1200,Vegetable Lasagne (For a buffet),Italian,Kid-Friendly
+1201,Green pepper pickles,Indian,Vegetarian
+1202,Vegetarian Keema,Indian,Kid-Friendly
+1203,Almond Diyas,Indian,Kid-Friendly
+1204,Walnut Filled Biscuits,Continental,Kid-Friendly
+1205,Rawa Kichidi,Indian,Vegetarian
+1206,Turai Khatta,Indian,Vegetarian
+1207,Traditional Palak Pulav,Indian,Vegetarian
+1208,Chilli Cheese Sticks,Anglo-Indian,Kid-Friendly
+1209,Veg Rolls,Indian,Kid-Friendly
+1210,Watermelon Rind Curry,Indian,Vegetarian
+1211,Marinated Vegetable Salad,American,Vegetarian
+1212,Aloo Fry,Indian,Kid-Friendly
+1213,Watermelon Smoothie,Indian,Festive
+1214,Almond Choco Cookies,Continental,Kid-Friendly
+1215,Til Gool,Indian,Kid-Friendly
+1216,Zarda Seekh Kabab,Indian,Vegetarian
+1217,Grilled Apple Sauce Burgers,American,Vegetarian
+1218,Vathal kulambhu,Indian,Vegetarian
+1219,Crushed Khakhras with Curds,Indian,Kid-Friendly
+1220,Tortilla Sandwich,Mexican,Kid-Friendly
+1221,Thousand Island Dressing,American,Vegetarian
+1222,Strawberry Chocolate,American,Kid-Friendly
+1223,Wadi Aloo,Indian,Vegetarian
+1224,Aloo Chaat Lajawab,Indian,Kid-Friendly
+1225,Vegetable Patholi,Indian,Vegetarian
+1226,Rava Khichadi,Indian,Vegetarian
+1227,Easy Aapam,Indian,Vegetarian
+1228,Coffee Milk Shake with Coffee Cubes,Indian,Vegetarian
+1229,Pudding In Pie,Indian,Kid-Friendly
+1230,Quick Aloo Methi,Indian,Vegetarian
+1231,Easy Aloo Palak,Indian,Vegetarian
+1232,Watermelon Slush,Continental,Kid-Friendly
+1233,Wheat Flour Au Gratin,Indian,Vegetarian
+1234,Peanuts-Lauki,Indian,Vegetarian
+1235,Peanut Salad,Indian,Vegetarian
+1236,Zesty Brinjal and Dal Curry,Indian,Vegetarian
+1237,Daal Poodi,Indian,Vegetarian
+1238,7 Cup Sweet,Indian,Kid-Friendly
+1239,Grated Lauki Curry,Indian,Vegetarian
+1240,Vadas,Indian,Kid-Friendly
+1241,Vanilla Muffins,Anglo-Indian,Kid-Friendly
+1242,Vanilla Flavoured Chocolate Cake,American,Kid-Friendly
+1243,Potato Puri,Indian,Vegetarian
+1244,Vegetable Halwa,Indian,Festive
+1245,Torai Channa dal Subzi,Indian,Vegetarian
+1246,7 Cupcake,Indian,Festive
+1247,Aloo Khorma,Indian,Vegetarian
+1248,Yummy Cheesecake,Continental,Kid-Friendly
+1249,Tuvar Dal with Palak,Indian,Vegetarian
+1250,Vermicelli Kesari,Indian,Festive
+1251,Vegetable and Herb Omelette,Continental,Non-Vegetarian
+1252,Warm Mud Cake with Vanilla Ice Cream,American,Kid-Friendly
+1253,Vegetable Biriyani,Indian,Vegetarian
+1254,Veal Vindaloo,Anglo-Indian,Non-Vegetarian
+1255,Traditional Paneer Korma,Indian,Vegetarian
+1256,Zair,Indo-American,Festive
+1257,Whole Masoor Dal,Indian,Vegetarian
+1258,Wonderful Bhath in a Jiffy,Indian,Vegetarian
+1259,Zucchini N Sprouted Moong dal Kurma,Indian,Vegetarian
+1260,Plain Methi Sabzi,Indian,Vegetarian
+1261,Wheat Idiappam (Sevai) - South Indian Delicacy,Indian,Vegetarian
+1262,Soya Soup,Chinese,Vegetarian
+1263,Urad-Maida Dosai,Indian,Vegetarian
+1264,Vegetable Paratha and Coriander Chutney,Indian,Vegetarian
+1265,Soya noodles with mushroom,Chinese,Vegetarian
+1266,Curry Powder (For Vegetables),Indian,Festive
+1267,Vegetables in White Sauce,Indian,Vegetarian
+1268,Stew Curry Powder,Indian,Vegetarian
+1269,Plain Aloo Dum,Indian,Vegetarian
+1270,Traditional Tomato Rice,Indian,Vegetarian
+1271,Unnakayi (Banana Rolls),Indian,Kid-Friendly
+1272,Steamed Pathrade,Indian,Vegetarian
+1273,Dahi Baigan (Oriya Dish),Indian,Kid-Friendly
+1274,Rainbow Sandwich Pakoras,Indian,Vegetarian
+1275,Almond Fudge,American,Vegetarian
+1276,Udupi Sambhar,Indian,Vegetarian
+1277,Traditional Vangibath,Indian,Vegetarian
+1278,Veggie Pancake,Indian,Vegetarian
+1279,Aloo Gobi Recipe,Indian,Vegetarian
+1280,Zucchini Raita,Indian,Vegetarian
+1281,Traditional Orange Cake,Continental,Vegetarian
+1282,Chocolate Pineapple Biscuit Pudding,Indian,Kid-Friendly
+1283,Liver Kababs,Indian,Non-Vegetarian
+1284,Whole Duck Roasted The Indian Way,Anglo-Indian,Non-Vegetarian
+1285,Val Whole Usli,Indian,Vegetarian
+1286,Lauki in Channa Dal,Indian,Vegetarian
+1287,Vegetable Mughlai,Indian,Vegetarian
+1288,Aloo Kichidi for Special Occasions,Indian,Kid-Friendly
+1289,Paneer rolls,Indian,Vegetarian
+1290,Cucur Udang (Deep fried ladle cakes with prawns),Malaysian,Non-Vegetarian
+1291,Instant Veg Dosa,Indian,Vegetarian
+1292,Truffle,Continental,Kid-Friendly
+1293,Khakra-Papad Ki Choori,Indian,Vegetarian
+1294,Black-Eyed Peas With Onions And Tomatoes,Anglo-Indian,Vegetarian
+1295,Green Masala Chicken Curry,Anglo-Indian,Non-Vegetarian
+1296,Veg egg,Indian,Kid-Friendly
+1297,Crab-Snow Peas Curry,Indian,Non-Vegetarian
+1298,Cheese Soup with Chicken Stock,American,Non-Vegetarian
+1299,Savoury Sausage Pie,Anglo-Indian,Kid-Friendly
+1300,Walnut Ladoos,Indian,Festive
+1301,Shira,Indian,Kid-Friendly
+1302,Vegetable Hakka Noodles,Chinese,Vegetarian
+1303,Zesty Vegetable in Coconut Gravy,Indian,Vegetarian
+1304,Virgin Pina Colada with Tender Coconut,South-American,Vegetarian
+1305,Low Fat Shrikhand,Indian,Vegetarian
+1306,Urad Dal and Potato Side Dish,Indian,Kid-Friendly
+1307,Vegetable Perattal,Indian,Vegetarian
+1308,Traditional Vegetable Biriyani,Indian,Vegetarian
+1309,Methi Ladoos,Indian,Kid-Friendly
+1310,Zucchini Chutney,Indian,Vegetarian
+1311,Aloo Tikka Masala,Indian,Vegetarian
+1312,Wafers Chaat,Indian,Kid-Friendly
+1313,Varutta Erra Kolumbu,Indian,Festive
+1314,Sugary Cashew Nut Macaroons,Anglo-Indian,Kid-Friendly
+1315,Vengaya Thugayal (Onion Chutney),Indian,Vegetarian
+1316,Cauliflower Bake,Anglo-Indian,Vegetarian
+1317,Tasty Pista Cake,Indian,Kid-Friendly
+1318,Banana Milkshake,Continental,Kid-Friendly
+1319,Mexican Tacos,Mexican,Vegetarian
+1320,Oreo Cookies Cheese Cake,American,Kid-Friendly
+1321,Vellai Paniyaram,Indian,Kid-Friendly
+1322,Vegetable Puttu,Indian,Vegetarian
+1323,Plain Akki Roti,Indian,Vegetarian
+1324,Sunshine Cake,American,Kid-Friendly
+1325,Tortilla Chips Bhel,Indian,Kid-Friendly
+1326,Rail Palaharam,Indian,Kid-Friendly
+1327,Wheat rava dry fruit kesari,Indian,Kid-Friendly
+1328,Yummy Aloo Paratha,Indian,Vegetarian
+1329,Yummy Malai Kofta,Indian,Festive
+1330,Paneer pasanda,Indian,Vegetarian
+1331,Turmeric chicken curry,Indian,Non-Vegetarian
+1332,Sugar free Dark Chocolate,American,Vegetarian
+1333,Vegetable Fajitas,Mexican,Vegetarian
+1334,Uttapam,Indian,Vegetarian
+1335,Val beans sundal (anapa ginjala guggillu),Indian,Vegetarian
+1336,Traditional Olan,Indian,Vegetarian
+1337,Paneer Rogan Josh,Indian,Vegetarian
+1338,Fig Honey Sauce,Indian,Festive
+1339,Vegan Lamb and Cauliflower Curry,Indian,Vegan
+1340,Mixed Dal Adai,Indian,Vegetarian
+1341,Varan Bhaat,Indian,Vegetarian
+1342,Karela Stir fried Vegetable,Indian,Vegetarian
+1343,Egg Bhaji,Indian,Non-Vegetarian
+1344,Vanilla Cupcakes with glace cherries & Pineapple,American,Non-Vegetarian
+1345,Methi Pudina Khakra,Indian,Vegetarian
+1346,Parboiled Rice Porridge for Toddlers,Indian,Kid-Friendly
+1347,Triple Dhoklas,Indian,Vegetarian
+1348,Fuggias - East Indian Bread,Indian,Non-Vegetarian
+1349,Vegetable Kebabs,Indian,Kid-Friendly
+1350,Veg Bhurji,Indian,Vegetarian
+1351,Plain Mushroom Pepper Fry,Indian,Vegetarian
+1352,Dum Ka Chicken,Indian,Non-Vegetarian
+1353,Vegetable and Cheese Parathas,Indian,Festive
+1354,Special Watermelon Smoothie,Indian,Vegetarian
+1355,Special Aloo Dum,Indian,Vegetarian
+1356,Whole Grain Upma,Indian,Vegetarian
+1357,White Radish Dip,Indian,Vegetarian
+1358,Home Made Taco,Mexican,Kid-Friendly
+1359,Coffee Toffees,American,Kid-Friendly
+1360,Veggie pie with poppy seeds,American,Vegetarian
+1361,Vankaya Menthi Kaaram Koora,Indian,Vegetarian
+1362,Wholesome Porridge,Indian,High-Protein
+1363,Tum Yum Soup,Indian,Kid-Friendly
+1364,Veggie Childa,Indian,Vegetarian
+1365,Molagai Chutney,Indian,Festive
+1366,Trotters Soup,Anglo-Indian,Non-Vegetarian
+1367,Mustard Chilli Seasoning,Indian,Vegetarian
+1368,Aloo Mutter with Garlic Flavor,Indian,Kid-Friendly
+1369,Tropical smoothie,Indian,Kid-Friendly
+1370,Prawn Shahi Barfi,Indian,Non-Vegetarian
+1371,Simple Italian Dressing,Continental,Vegetarian
+1372,Tridev Dhal,Indian,Vegetarian
+1373,Fish Curry With Coconut,Indian,Non-Vegetarian
+1374,Green vadas,Indian,Vegetarian
+1375,Yummy Kalakand,Indian,Festive
+1376,Vatral Kuzhambu,Indian,Vegetarian
+1377,Almond Slices,Continental,Festive
+1378,Amla (Nellikai) Chutney,Indian,Kid-Friendly
+1379,Wheat Germ Kheer,Indian,Festive
+1380,7 Cups Delight,Indian,Festive
+1381,Yakhni,Indian,Non-Vegetarian
+1382,Indian Kabuli,Indian,Vegetarian
+1383,Green Gram Barfi,Indian,Festive
+1384,Zamin Doz Machhli,Indian,Non-Vegetarian
+1385,Easy Chocolate Cookies,Continental,Kid-Friendly
+1386,Telcha,Indian,Festive
+1387,Sutoda,Indian,Festive
+1388,Tossed Salad,Continental,Non-Vegetarian
+1389,Aloo Pudhina,Indian,Vegetarian
+1390,Soya Fennel Rice,Continental,Vegetarian
+1391,Amle ki Chutney,Indian,Vegetarian
+1392,Devil's Steak,Anglo-Indian,Non-Vegetarian
+1393,Teekha mach,Indian,Non-Vegetarian
+1394,Eggs and Potato Curry,Indian,Non-Vegetarian
+1395,Tuna Fish Tomato Curry,Indian,Non-Vegetarian
+1396,Orange and Strawberry Punch,Indian,Vegetarian
+1397,Traditional Tomato curry,Indian,Vegetarian
+1398,Aloo Methi Masala,Indian,Vegetarian
+1399,Ven pongal recipe,Indian,Vegetarian
+1400,Grape Mocktail,Indian,Vegetarian
+1401,Traditional Paneer jalfrezi,Indian,Vegetarian
+1402,Nasi Lemak and Prawn Sambal with coconut,Malaysian,Non-Vegetarian
+1403,Yummy Mutton Chops,Indian,Non-Vegetarian
+1404,Traditional Tomato Thokku,Indian,Vegetarian
+1405,Aloo Kannapuri,Indian,Vegetarian
+1406,Date Apple Coffee Bread,American,Kid-Friendly
+1407,Traditional Sannas,Indian,Kid-Friendly
+1408,Tortilla Soup with beef and chicken broth,Mexican,Non-Vegetarian
+1409,Plain Pineapple cake,American,Festive
+1410,Microwave Kalakand,Indian,Kid-Friendly
+1411,Vinegar Chillies And Mayonnaise,Indian,Vegetarian
+1412,Special Vegetable Jalfrezi,Indian,Vegetarian
+1413,Yellow Dal,Indian,Vegetarian
+1414,Chicken masala semi gravy,Indian,Non-Vegetarian
+1415,Yummy Kesari,Indian,Festive
+1416,Vendakkai (Okra) Kuzhambu,Indian,Vegetarian
+1417,Fish in Mustard Sauce,Indian,Festive
+1418,Aloo Masala,Indian,Vegetarian
+1419,Almond and Rice Kheer,Indian,Festive
+1420,Plain Sakkarai Pongal,Indian,Kid-Friendly
+1421,Quick Adai,Indian,Low-Calorie
+1422,Traditional Tomato Mushrooms,Indian,Kid-Friendly
+1423,Cabbage capsicum masala,Indian,Vegetarian
+1424,Egg-Vegetable Omelette,Indian,Kid-Friendly
+1425,Tortilla Laddus,Indian,Kid-Friendly
+1426,Traditional Kerala Fish Curry,Indian,Non-Vegetarian
+1427,Vegetable and Potato Fritters,Indian,Vegetarian
+1428,Simple Amla Pickle,Indian,Vegetarian
+1429,Pine Coconuty Fusion,Indian,Vegetarian
+1430,Zero Oil Bake Gulab Jamun,Indian,Kid-Friendly
+1431,Watermelon And Apple Cooler,Indian,Vegetarian
+1432,Tomato Pickups,Indian,Vegetarian
+1433,Creamy Rabri Sip,Indian,Vegetarian
+1434,Vegetable Gravy,Indian,Vegetarian
+1435,Plain Aloo Gobi,Indian,Vegetarian
+1436,Quick Aloo Dum,Indian,Vegetarian
+1437,Zesty Tomato Rice,Indian,Kid-Friendly
+1438,Soya Salad,Indian,Vegetarian
+1439,Veg. Seekh Kababs,Indian,Kid-Friendly
+1440,Aloo Paratha Recipe,Indian,Vegetarian
+1441,Aloo Baingan,Indian,Vegetarian
+1442,Tomato Tea Sandwiches,Anglo-Indian,Kid-Friendly
+1443,Vermicelli Delight,Indian,Kid-Friendly
+1444,Fowl Curry with Roasted Masala,Indian,Non-Vegetarian
+1445,Quick Chocolate Chip Cookies,Indian,Kid-Friendly
+1446,Winter Masoor Dal,Indian,High-Protein
+1447,Refreshing Carrot Juice,Indian,Vegetarian
+1448,Vegetable Ginger Fry,Indian,Vegetarian
+1449,Yummy Matar Paneer,Indian,Vegetarian
+1450,Mixed greens And Corn Dumplings,Indian,Vegetarian
+1451,Turai Channa Dal,Indian,Vegetarian
+1452,White Sauce for Bakes and Pasta,Anglo-Indian,Vegetarian
+1453,Veg kara pongal,Indian,Vegetarian
+1454,Quick Aloo Gobi,Indian,Vegetarian
+1455,Vegetable Rice,Indian,Vegetarian
+1456,Banana Caramel Cream,Indian,Vegetarian
+1457,Aloo mutter Tikki,Indian,Vegetarian
+1458,Vankaya allam karam (egg plant curry),Indian,Kid-Friendly
+1459,Vegetable Pancake Batter,Indian,Kid-Friendly
+1460,Vatta kolambhu (tamarind curry),Indian,Kid-Friendly
+1461,Vegetarian Shepherd's Pie,Anglo-Indian,Kid-Friendly
+1462,Boti,Indian,Non-Vegetarian
+1463,Green apple salad,American,Vegetarian
+1464,Kheema in Green Masala,Indian,Non-Vegetarian
+1465,Yeriseri,Indian,Vegetarian
+1466,Methi Bhajiya,Indian,Vegetarian
+1467,Exotic Egg Spread,Indian,Non-Vegetarian
+1468,Mixed Cubes,Indian,Vegetarian
+1469,Spicy Cauliflower - Broccoli Fritters,Anglo-Indian,Non-Vegetarian
+1470,Traditional Onion Pakoras,Indian,Kid-Friendly
+1471,Vegetable Fried Rice in Chilli-Soya Sauce,Chinese,Festive
+1472,Raagi Muddhe,Indian,Kid-Friendly
+1473,Aloo Chokha,Indian,Vegetarian
+1474,Egg curry in Yogurt based Gravy,Indian,Non-Vegetarian
+1475,Curry Powder for Meat - bulk,Indian,Festive
+1476,Patishapta,Indian,Festive
+1477,Sardine Rounds,English,Non-Vegetarian
+1478,Palak-Tomato Pulav,Indian,Vegetarian
+1479,Liver And Bacon Casserole,Anglo-Indian,Non-Vegetarian
+1480,Nutritious Lentil Rice,Indian,Vegetarian
+1481,Turmeric Powder,Indian,Vegetarian
+1482,Vanilla with Faces,Indian,Kid-Friendly
+1483,Sizzling Tamarind Rice,Indian,Vegetarian
+1484,Brown Dal,Indian,Vegetarian
+1485,Traditional Urad Dal Ladoo,Indian,Festive
+1486,Tuna Fish,Indian,Non-Vegetarian
+1487,Deep Fried Idli Patties,Indian,Vegetarian
+1488,Anglo-Indian Chicken Vindaloo,Anglo-Indian,Non-Vegetarian
+1489,Aloo Pakoda,Indian,Vegetarian
+1490,Walnut chutney,Indian,Vegetarian
+1491,Methina Bhajiya,Indian,Vegetarian
+1492,Pav Bhaji under 30 minutes,Indian,Vegetarian
+1493,Traditional Navaratna Kurma,Indian,Vegetarian
+1494,Vaangi Upma,Indian,Vegetarian
+1495,Simple Crab Curry,Anglo-Indian,Non-Vegetarian
+1496,Unstuffed Modak for Naivedya,Indian,Kid-Friendly
+1497,Vegetarian Brown Sauce,Anglo-Indian,Vegetarian
+1498,Wholesome Nutty Salad,Indian,Vegetarian
+1499,White Chicken Kurma,Indian,Non-Vegetarian
+1500,Vanilla Drops,Anglo-Indian,Kid-Friendly
+1501,Moong Dal Uthappam,Indian,Kid-Friendly
+1502,Urad Dal Ki Kachauri,Indian,Vegetarian
+1503,Veg Ball Biriyani,Indian,Vegetarian
+1504,Vegetarian Kway Teow,Chinese,Vegetarian
+1505,Turkish style Festive Baklana,Turkish,Kid-Friendly
+1506,Rawa Milagu Pongal,Indian,Vegetarian
+1507,Chocolate Kheer,Indian,Festive
+1508,Yummy Idli and Chutney,Indian,Kid-Friendly
+1509,Vendakai puli pachadi,Indian,Vegetarian
+1510,Traditional Punjabi Chole,Indian,Festive
+1511,No Cook Dessert,American,Kid-Friendly
+1512,Whole Mixed Dal,Indian,Vegetarian
+1513,Yummy Aloo Mattar,Indian,Vegetarian
+1514,Zesty Salad,Continental,Vegetarian
+1515,Yam And Tomato Vindaloo,Anglo-Indian,Vegetarian
+1516,Traditional Palak Pakodas,Indian,Kid-Friendly
+1517,Adai Dosai,Indian,Vegetarian
+1518,Trifle Pudding,Continental,Festive
+1519,Kurkura Arbi Masala,Indian,Vegetarian
+1520,Vegetarian Mee Goreng,Chinese,Vegetarian
+1521,Cheese Cream,American,Non-Vegetarian
+1522,Brownie Shake,American,Vegetarian
+1523,Yellow Pumpkin Curry,Indian,Vegetarian
+1524,Vegetable stuffed potatoes,Indian,Vegetarian
+1525,Wacky Cake,American,Kid-Friendly
+1526,Plain Aloo Fry,Indian,Vegetarian
+1527,Aloo Methi with Yogurt,Indian,Vegetarian
+1528,Achar Aloo,Indian,Vegetarian
+1529,Microwaved Potato,Indian,Vegetarian
+1530,Duck Roast,Anglo-Indian,Non-Vegetarian
+1531,Dahi Malai Delight,Indian,Vegetarian
+1532,Hilsa in curd - Bengali style,Indian,Non-Vegetarian
+1533,Toasted Tea Cakes,Anglo-Indian,Kid-Friendly
+1534,South Indian Crab Curry,Indian,Non-Vegetarian
+1535,Traditional Mediterranean Lasagna,Indian,Festive
+1536,Indian style Palak rice,Indian,Vegetarian
+1537,Wada Pav,Indian,Vegetarian
+1538,Vathakuzhambu,Indian,Vegetarian
+1539,Chicken In Mint And Coriander Gravy,Anglo-Indian,Non-Vegetarian
+1540,Yummy Butter Chicken,Indian,Non-Vegetarian
+1541,Aloo Puri,Indian,Vegetarian
+1542,Tawa Dahi Kebabs,Indian,Vegetarian
+1543,Aloo Halwa,Indian,Festive
+1544,Shavige Uppittu,Indian,Vegetarian
+1545,Aloo Ki Tikki,Indian,Kid-Friendly
+1546,Veppampoo rasam,Indian,Festive
+1547,Spicy pork curry,Anglo-Indian,Non-Vegetarian
+1548,Green Moong Kebabs,Indian,Vegetarian
+1549,Vanilla ice cream with pista,Indian,Kid-Friendly
+1550,Strawberry-Chocolate Mousse,Indian,Vegetarian
+1551,Vegetable dal fry,Indian,Vegetarian
+1552,Corn Coleslaw,Continental,Vegetarian
+1553,Veg Soother,Continental,Vegetarian
+1554,Vellayappam,Indian,Kid-Friendly
+1555,Coconut Pilaf - Palau,Anglo-Indian,Vegetarian
+1556,Freeze-Thaw Tofu Fried Rice,Indian,Vegetarian
+1557,Vanilla Tea Cupcakes,Continental,Kid-Friendly
+1558,Penne a la Arrabiata,Italian,Vegetarian
+1559,Vishu Puzhuku,Indian,Vegetarian
+1560,Aloo Mutter (Potatoes and Peas Curry),Indian,Vegetarian
+1561,Tasty Aloo Paratha,Indian,Vegetarian
+1562,Sizzling Tangy fish curry,Anglo-Indian,Non-Vegetarian
+1563,Pineapple Pastries,Indian,Non-Vegetarian
+1564,Yummy Capsicum Chicken,Indian,Non-Vegetarian
+1565,Wheat Rava Idli,Indian,Vegetarian
+1566,Vegetable soup recipe,Indian,Vegetarian
+1567,Berry Banana Crepes,Italian,Kid-Friendly
+1568,Cheddar Garlic Biscuits,Continental,Kid-Friendly
+1569,Catla Fish Stew,Indian,Non-Vegetarian
+1570,Turkey Fry,Continental,Festive
+1571,White Mutton Curry,Indian,Non-Vegetarian
+1572,Traditional Vegetable Soup,Indian,Kid-Friendly
+1573,Aam Ras Puri,Indian,Kid-Friendly
+1574,Cheesy cauliflower,Continental,Kid-Friendly
+1575,Vangibath Masala Powder,Indian,Vegetarian
+1576,Traditional Palak Kofta Curry,Indian,Vegetarian
+1577,Old-fashioned Vegetable Omelette,Indian,Vegetarian
+1578,Watermelon And Lychee Fruit Salad,Indian,Kid-Friendly
+1579,Vegetable Rava Upma,Indian,Vegetarian
+1580,Vatana Salad,Indian,Vegetarian
+1581,White Pumpkin (Ghia) kesaria muraabba,Indian,Festive
+1582,Vangaya Vathakozhambu,Indian,Vegetarian
+1583,Vengaaya Sambar,Indian,Vegetarian
+1584,Alu-Tomato Saag,Indian,Vegetarian
+1585,Vegetable Malai Kofta Curry,Indian,Kid-Friendly
+1586,Twice Bake Potatoes,Continental,Vegetarian
+1587,Ulvu Charu (Horse Gram Rasam),Indian,Vegetarian
+1588,Junnu,Indian,Kid-Friendly
+1589,Crabs In Coconut Milk Curry,Anglo-Indian,Non-Vegetarian
+1590,Simple Aloo Palak,Indian,Vegetarian
+1591,Vegetable Kholapuri,Indian,Vegetarian
+1592,Traditional Tomato Pulao,Indian,Vegetarian
+1593,Plain Aamras,Indian,Festive
+1594,Vegetable and Herb Omlette,Continental,Non-Vegetarian
+1595,Vegetable Kofta,Indian,Kid-Friendly
+1596,Tomato Mozzarella Salad with Basil,Italian,Vegetarian
+1597,Bisi Bele Hulianna,Indian,Vegetarian
+1598,Custard Powder Biscuits,American,Vegetarian
+1599,Traditional Tomato Chutney,Indian,Vegetarian
+1600,Wheat-Moong Khichdi,Indian,Vegetarian
+1601,Mixed Fruit Mock tail,Indian,Vegetarian
+1602,Vegetable Moong Dal Attu,Indian,Vegetarian
+1603,Vellarikkai Koottu,Indian,Vegetarian
+1604,Wheat Flour Soup,Indian,Vegetarian
+1605,Veg Soft Noodles,Indo-Chinese,Kid-Friendly
+1606,Traditional Parathas,Indian,Kid-Friendly
+1607,Vegetable Sweet Corn Soup,Chinese,Vegetarian
+1608,Yummy Idli,Indian,Vegetarian
+1609,Amla Raita,Indian,Vegetarian
+1610,Fish Pilaf (Palau),Anglo-Indian,Non-Vegetarian
+1611,Yoghurt Sauce,Indian,Vegetarian
+1612,Vegetable Au Gratin,French,Vegetarian
+1613,Zuchini Olan,Indian,Vegetarian
+1614,Vegetable and Cheese Burger,Indian,Kid-Friendly
+1615,Whole Lime Pickle,Indian,Vegetarian
+1616,Zesty Rajma,Indian,Vegetarian
+1617,Tomato - Dahi Chutney,Indian,Vegetarian
+1618,Aloo Raita,Indian,Vegetarian
+1619,Ilish Bhape,Indian,Non-Vegetarian
+1620,Vatta Kozhambu,Indian,Vegetarian
+1621,Tomato and Mint Shorba,Indian,Vegetarian
+1622,Aloo Tikki with mint,Indian,Vegetarian
+1623,Yellow Split Peas Vadai,Indian,Vegetarian
+1624,Sea Crabs Hot Fry,Indian,Non-Vegetarian
+1625,Kaju Onion Bhajiya,Indian,Vegetarian
+1626,Fruit Tiramisu,Italian,Vegetarian
+1627,Almond Frosted Chocolate Pudding,American,Non-Vegetarian
+1628,Potato Cauliflower Masala,Indian,Vegetarian
+1629,Aloo Dil Vada,Indian,Vegetarian
+1630,Amaranth Stem Sukke,Indian,Vegetarian
+1631,Spicy Tomato Omelette,Indian,Vegetarian
+1632,Ghar ka Khana- Aloo Gobi,Indian,Vegetarian
+1633,Plain Aloo Amritsari,Indian,Vegetarian
+1634,Traditional Mysore Rasam,Indian,Vegetarian
+1635,Karela Salad,Indian,Vegetarian
+1636,Trifle Fruit Pudding,Continental,Festive
+1637,Aloo Vada,Indian,Vegetarian
+1638,Curry Powder for Meat,Indian,Festive
+1639,Zucchini and Chocolate Muffins,American,Kid-Friendly
+1640,Butter Beans-Lima Beans Curry,Anglo-Indian,Vegetarian
+1641,7 cups sweet for festivals,Indian,Festive
+1642,Wholesome Soup,Indian,Vegetarian
+1643,Lauki Ka Halwa with Mawa,Indian,Kid-Friendly
+1644,Tricolour Sandwiches,American,Vegetarian
+1645,Yummy egg do pyaza,Indian,Non-Vegetarian
+1646,Naryal ki Kachori,Indian,Kid-Friendly
+1647,Mustard Fish Curry,Indian,Non-Vegetarian
+1648,Aloo Pitika,Indian,Vegetarian
+1649,Vegetable Stuffed Chapatti,Indian,Kid-Friendly
+1650,Vatha Kulambu,Indian,Vegetarian
+1651,Whole Green Gram With Yoghurt,Indian,Vegetarian
+1652,Variety Lassi,Indian,Festive
+1653,Zest up with Lemons,Continental,Vegetarian
+1654,Egg Pakoras,Anglo-Indian,Non-Vegetarian
+1655,Yummy Gulab Jamuns,Indian,Kid-Friendly
+1656,Microwaved Bottle gourd and Dal,Indian,Vegetarian
+1657,Urad Vada,Indian,Vegetarian
+1658,Xewali Phoolor Khar,Indian,Vegetarian
+1659,Orange Cheese Souffle,American,Non-Vegetarian
+1660,Watermelon Ice,Indian,Vegetarian
+1661,Simple Fried Crab In Chilli Sauce,Malaysian,Non-Vegetarian
+1662,Wholesome Broth with Khakra,Indian,Vegetarian
+1663,Wheat Laddu,Indian,Festive
+1664,Watermelon Frozen Dessert,Indian,Kid-Friendly
+1665,Stuffed cuttlefish squids sambal,Malaysian,Non-Vegetarian
+1666,Traditional Palak rice,Indian,Vegetarian
+1667,Sweet Sesame Rice,Indian,Vegetarian
+1668,Broccoli and Spinach Tikkis,Indian,Vegetarian
+1669,Achari Gobi,Indian,Vegetarian
+1670,Yogurt Soup,Indian,Non-Vegetarian
+1671,Seafood Paella,Mediterranean,Kid-Friendly
+1672,Trotters in Gravy,Anglo-Indian,Non-Vegetarian
+1673,Vegetable Lasagne with Ricotta Cheese,Continental,Kid-Friendly
+1674,Vanilla Pancakes,Anglo-Indian,Kid-Friendly
+1675,Easy Aloo Jeera Fry,Indian,Vegetarian
+1676,Pot Luck Casserole,Anglo-Indian,Kid-Friendly
+1677,Aloo Bread Tikki,Indian,Vegetarian
+1678,Traditional Undhiyu,Indian,Kid-Friendly
+1679,Yoghurt Brownies,American,Kid-Friendly
+1680,Vegetable Rice and Kurma,Indian,Vegetarian
+1681,Khopra Pak,Indian,Festive
+1682,Veggie Loaded Taco Roll,Mexican,Vegetarian
+1683,Vegetable (Mixed) Kofta Curry,Anglo-Indian,Vegetarian
+1684,Pushnikai (White Pumpkin) Halwa,Indian,Vegetarian
+1685,Vagaarela Green Chillies,Indian,Vegetarian
+1686,Semolina Pineapple Cake,English,Kid-Friendly
+1687,Kesaria Lassi,Indian,Vegetarian
+1688,Yellow Coconut Rice,Indian,Vegetarian
+1689,Traditional Vanilla Ice cream,Indian,Festive
+1690,Til Aur Nariyal Ki Barfi,Indian,Kid-Friendly
+1691,Tofu Cabbage Miso Soup,Japanese,Vegetarian
+1692,Wholesome Omelette,Indian,Non-Vegetarian
+1693,Veg sandwich,Indian,Vegetarian
+1694,Yummy Pork Roast,Anglo-Indian,Non-Vegetarian
+1695,Aloo batter fried,Indian,Vegetarian
+1696,Yoghurt chicken,Indian,Non-Vegetarian
+1697,Eggless Pineapple Pastry,Continental,Kid-Friendly
+1698,Sprouted Moong And Peanut Salad,Anglo-Indian,Vegetarian
+1699,Ukdee Che Modak (Rice modak),Indian,Kid-Friendly
+1700,Traditional Palak Paneer,Indian,Vegetarian
+1701,Aloo Dum Awadhi,Indian,Kid-Friendly
+1702,Vanilla flavored buttermilk cake,Indian,Kid-Friendly
+1703,Basic Aloo Paratha,Indian,Vegetarian
+1704,Veg Cream Sandwich,Continental,Kid-Friendly
+1705,Vegetable Manchurian,Indian,Vegetarian
+1706,Yumyum Noodles,Chinese,Non-Vegetarian
+1707,Vatli Dal,Indian,Vegetarian
+1708,Spicy Trotters Curry,Anglo-Indian,Non-Vegetarian
+1709,Amul Cheese Dosa,Indian,Vegetarian
+1710,Paneer Peshawar,Indian,Vegetarian
+1711,Aappam with banana,Indian,Kid-Friendly
+1712,Ulli Theeyal,Indian,Vegetarian
+1713,Vegetable Rice Flour Roti,Indian,Vegetarian
+1714,Adai with Rice and Daals,Indian,Vegetarian
+1715,Lilvani Kachori,Indian,Vegetarian
+1716,Vegetable Spring Rolls,Indo-Chinese,Vegetarian
+1717,Yummy Rajma,Indian,Vegetarian
+1718,Simple Ghee Rice,Indian,Vegetarian
+1719,Traditional Paneer Burji,Indian,Vegetarian
+1720,Yummy Momos,Indian,Non-Vegetarian
+1721,Chawli Ke Parathe,Indian,Vegetarian
+1722,Yummy Rava Ladoos,Indian,Vegetarian
+1723,Yummy Rasgullas,Indian,Festive
+1724,Focaccia Bread,American,Vegetarian
+1725,Simple Aloo Paratha,Indian,Vegetarian
+1726,Crispy and Yummy Chicken,Indian,Kid-Friendly
+1727,Tasty Aam Ki Chutney,Indian,Vegetarian
+1728,Ugadhi chutney,Indian,Vegetarian
+1729,Aloo Tikki with coriander,Indian,Vegetarian
+1730,Truffle in Paradise Ice-Cream,American,Kid-Friendly
+1731,Aloo Aur Pyaaz Ki Sabzi,Indian,Vegetarian
+1732,Tomato And Basil Bruschetta,Italian,Vegetarian
+1733,Vegetable Soup Chowder,American,Vegetarian
+1734,Aloo Deem Sheddo Phena Bhaat,Indian,Non-Vegetarian
+1735,Vanilla Cupcakes with Applesauce,English,Non-Vegetarian
+1736,Yummy Mango Kulfi,Indian,Kid-Friendly
+1737,French Toast with Herbs,French,Non-Vegetarian
+1738,Plain Aloo Mutter,Indian,Vegetarian
+1739,Quick Akki Roti,Indian,Vegetarian
+1740,White cake,American,Kid-Friendly
+1741,Almond Cake with Eggs,Indian,Kid-Friendly
+1742,Mutton Drumstick Curry,Indian,Non-Vegetarian
+1743,Tortilla Rolls,Mexican,Kid-Friendly
+1744,Whole curried mackerels,Anglo-Indian,Non-Vegetarian
+1745,Whole Wheat Semolina Pulao,Indian,Vegetarian
+1746,Doldol With Jaggery,Anglo-Indian,Festive
+1747,Vanilla Pudding,Indian,Kid-Friendly
+1748,Tomato Khakras,Indian,Festive
+1749,Aloo Tamatar Sabzi,Indian,Vegetarian
+1750,Traditional Paneer butter masala,Indian,Vegetarian
+1751,Urad Dal Vadai,Indian,Vegetarian
+1752,Vermicelli Cutlet,Indian,Vegetarian
+1753,Ambode,Indian,Vegetarian
+1754,Yam kuzhambhu,Indian,Vegetarian
+1755,Uthappam,Indian,Vegetarian
+1756,Tamarind Rice,Indian,Vegetarian
+1757,Almond Milk Smoothie,Indian,Festive
+1758,Tangy Onion Curry,Indian,Vegetarian
+1759,Tangy Fish Tenga,Indian,Non-Vegetarian
+1760,Cauliflower Soup,American,Vegetarian
+1761,Yummy Fried Rice,Indian,Kid-Friendly
+1762,Tuppa Dosa,Indian,Kid-Friendly
+1763,Simple Anglo-Indian beef roast,Anglo-Indian,Non-Vegetarian
+1764,Vegetable Chowmein,Chinese,Vegetarian
+1765,X-Mas Porridge,Indian,Festive
+1766,Crispy Walnut Cookies,Continental,Kid-Friendly
+1767,Walnut Fudge Easter Eggs,Anglo-Indian,Festive
+1768,Mazedar Aloo Palak,Indian,Vegetarian
+1769,Traditional Palak Raita,Indian,Vegetarian
+1770,Aloo Gobi Fry with Eggs,Indian,Non-Vegetarian
+1771,vegetable noodles,Chinese,Vegetarian
+1772,Traditional Avial,Indian,Vegetarian
+1773,Yummy Ras Malai,Indian,Festive
+1774,Zucchini Muffins,Continental,Kid-Friendly
+1775,Yellow Dal with Dill and Spinach,Indian,Vegetarian
+1776,Dal Makhani with Chana Dal,Indian,Vegetarian
+1777,Cheese and Vegetable Rolls,American,Non-Vegetarian
+1778,Aam Panna with Rock Salt and Roasted Cumin,Indian,Vegetarian
+1779,Turnip Masala,Indian,Vegetarian
+1780,Evening Halo,Indian,Kid-Friendly
+1781,Vadakari,Indian,Vegetarian
+1782,Custard Pastry,Indian,Kid-Friendly
+1783,Scarlett Grape Juice,Continental,Kid-Friendly
+1784,Choco Chip Buns,Continental,Kid-Friendly
+1785,Traditional pongal,Indian,Vegetarian
+1786,Vegetable Paella,Continental,Vegetarian
+1787,Cocojam Rolls,Indian,Kid-Friendly
+1788,Vegetable chow chow,Chinese,Vegetarian
+1789,Veggie Rice Soup,Indian,Kid-Friendly
+1790,Khirapath,Indian,Festive
+1791,Aloo Matar in Dahi,Indian,Vegetarian
+1792,Tuvar Dal,Indian,Vegetarian
+1793,Sakkarai Pongal,Indian,Vegetarian
+1794,Okra-pepper Curry,Indian,Vegetarian
+1795,Vegetable Puffs,Anglo-Indian,Vegetarian
+1796,Quick Aloo Posto,Indian,Festive
+1797,Vegetable Powder,Indian,Vegetarian
+1798,Mutton with Arbi,Indian,Non-Vegetarian
+1799,Marie Biscuit Choco Magic,Anglo-Indian,Kid-Friendly
+1800,Aloo Pethe Ka Saag,Indian,Vegetarian
+1801,White Pumpkin - Ash Gourd In Dhal,Anglo-Indian,Vegetarian
+1802,Okra Pakodas,Indian,Vegetarian
+1803,Yoghurt Kebabs,Indian,Vegetarian
+1804,Modern Paneer Butter Masala,Indian,Vegetarian
+1805,Mutton Palak and Methi,Indian,Non-Vegetarian
+1806,Yeriyappa,Indian,Festive
+1807,Paneer Lajawab,Indian,Vegetarian
+1808,Veg pulao with Cauliflower,Indian,Vegetarian
+1809,Cabbage and dal crumble (Cabbage usili),Indian,Kid-Friendly
+1810,Lauki Dal,Indian,Vegetarian
+1811,Wheat-Cabbage rotis,Indian,Vegetarian
+1812,Urad Dal Raita,Indian,Vegetarian
+1813,Zeera Rice,Indian,Kid-Friendly
+1814,Quick Tinda Curry,Indian,Vegetarian
+1815,Bottle Gourd With Split Peas,Indian,Vegetarian
+1816,Urad Dal Vada in Sugar Syrup,Indian,Vegetarian
+1817,Duck Vindaloo,Anglo-Indian,Non-Vegetarian
+1818,Scrumptious Fried Rice,Indian,Vegetarian
+1819,Shrimp Scampi,Italian,Non-Vegetarian
+1820,Special Karela Pickle,Indian,Vegetarian
+1821,Traditional Palak Dal,Indian,Vegetarian
+1822,Rasagolla,Indian,Festive
+1823,Rava Payasam,Indian,Vegetarian
+1824,Vendaya Keerai Masiyal,Indian,Vegetarian
+1825,Simple beetroot chutney,Indian,Vegetarian
+1826,Tuna Patties,Indian,Kid-Friendly
+1827,Peanut chutney with Spices,Indian,Kid-Friendly
+1828,Indian Egg Stew,Indian,Non-Vegetarian
+1829,Seyal Dabroti (Masala Bread),Indian,Kid-Friendly
+1830,Soya Bonda,Indian,Vegetarian
+1831,Simple Kesari,Indian,Kid-Friendly
+1832,Bottle Gourd with Soya,Indian,Vegetarian
+1833,Semolina Coconut Sweet,Anglo-Indian,Festive
+1834,Sodhi,Indian,Vegetarian
+1835,Rice Noodles,Indian,Vegetarian
+1836,Vegetable Marrow - Chowchow Side Dish,Anglo-Indian,Vegetarian
+1837,Special Dosai Podi,Indian,Vegetarian
+1838,Saffron Oats Peda,Indian,Kid-Friendly
+1839,Til Pitha,Indian,Kid-Friendly
+1840,Turkey Biryani,Indian,Festive
+1841,Simple Fried Chicken,Continental,Non-Vegetarian
+1842,Special Tomato Bhaat,Indian,Vegetarian
+1843,Shark Mince Cutlets,Anglo-Indian,Non-Vegetarian
+1844,Shrimp-Mango Curry,Indian,Kid-Friendly
+1845,Vella Sundal,Indian,Festive
+1846,Special Paneer in Cream,Indian,Vegetarian
+1847,Salmon with Ginger and Coriander,Indian,Kid-Friendly
+1848,Rawa pulihora,Indian,Vegetarian
+1849,Aloo Mattar for Chappatis,Indian,Vegetarian
+1850,Simple Idli Chaat,Indian,Kid-Friendly
+1851,Tutti-Frutti Ice-cream,Continental,Festive
+1852,Salmon Kebabs,Indian,Kid-Friendly
+1853,Ridge Gourd Chutney (Hirekai Chutney),Indian,Non-Vegetarian
+1854,Roasted Chilli Paste,Indian,Non-Vegetarian
+1855,Ragda Pattice,Indian,Kid-Friendly
+1856,Triffle Pudding,Indian,Kid-Friendly
+1857,Urad dal with methi leaves,Indian,Vegetarian
+1858,Spicy Poories,Indian,Vegetarian
+1859,Special Sheer Kurma,Indian,Vegetarian
+1860,Rice and Chicken Salad,Indian,Non-Vegetarian
+1861,Vegetable And Nut Pinwheel,Continental,Kid-Friendly
+1862,Sizzling Stir Fried Vegetables,Indian,Vegetarian
+1863,Rice vegetable bake,Indian,Kid-Friendly
+1864,Simple Carrot Kheer,Indian,Festive
+1865,Sizzling Spinach-n-Yoghurt Dal,Indian,Kid-Friendly
+1866,Savoury pork chops,Anglo-Indian,Non-Vegetarian
+1867,Rajgiri Puris,Indian,Vegetarian
+1868,Spaghetti with soya nuggets,Italian,Vegetarian
+1869,Special Popcorn,Indian,Vegetarian
+1870,Simple Cabbage pakoras,Indian,Vegetarian
+1871,Shark Fish Salad,Indian,Non-Vegetarian
+1872,Simple Potato - Peas Fry,Indian,Vegetarian
+1873,Ras-Batate,Indian,Vegetarian
+1874,Salad Nicoise,Indian,Non-Vegetarian
+1875,Special Mango Pachadi,Indian,Kid-Friendly
+1876,Raspberry Peach Crumble,Continental,Non-Vegetarian
+1877,Sauce aux Crevettes,African,Non-Vegetarian
+1878,Sauteed Baingan Masala,Indian,Vegetarian
+1879,Shrimp Stew,Indian,Non-Vegetarian
+1880,Simple Gulab Jamun,Indian,Festive
+1881,Special Kaju Barfi,Indian,Festive
+1882,Simple Anglo-Indian Beef Curry,Anglo-Indian,Non-Vegetarian
+1883,South Indian Egg Curry,Indian,Non-Vegetarian
+1884,Shrimp Masala,Indian,Non-Vegetarian
+1885,Special Paneer paratha,Indian,Vegetarian
+1886,Simple Poricha Kuzhambhu,Indian,Kid-Friendly
+1887,Raw Banana Kura (Andhra),Indian,Vegetarian
+1888,Special Naan,Indian,Vegetarian
+1889,Special Tomato Chutney,Indian,Vegetarian
+1890,Simple pepper chicken,Anglo-Indian,Non-Vegetarian
+1891,Roast turkey with stuffing,Indian,Non-Vegetarian
+1892,Roasted Almond Ice-Cream,Indian,Vegetarian
+1893,Solan,Indian,Vegetarian
+1894,Sheer Khurma,Indian,Festive
+1895,Simple Garlic curry,Indian,Vegetarian
+1896,Shrimp Slaw,Continental,Non-Vegetarian
+1897,Red Chicken,Indian,Kid-Friendly
+1898,Savoury Malpuas With Rabri,Indian,Kid-Friendly
+1899,Sattu Paratha,Indian,Vegetarian
+1900,Sizzling Stuffed Bhindi,Indian,Vegetarian
+1901,Soya Grill,Asian,Vegetarian
+1902,Simple Pineapple Upside-Down Cake,Continental,Festive
+1903,Raw banana tikki,Indian,Vegetarian
+1904,Simple Rava Dosa,Indian,Non-Vegetarian
+1905,Simple Microwave Chocolate Cake,Continental,Kid-Friendly
+1906,Radish pachadi,Indian,Kid-Friendly
+1907,Special Potato Curry,Indian,Vegetarian
+1908,Scrumptious Gulab Jamuns,Indian,Kid-Friendly
+1909,Simple oats,Indian,High-Protein
+1910,Salmon Vegetable Dip,Indian,Non-Vegetarian
+1911,Smoked Salmon Burgers,American,Kid-Friendly
+1912,Simple pork roast,Anglo-Indian,Non-Vegetarian
+1913,Sago Hariyali Pakoda,Indian,Vegetarian
+1914,Special Paneer Cutlets,Indian,Vegetarian
+1915,Ragi pindi pakoda,Indian,Kid-Friendly
+1916,Shimla Mirch Baingan Rizala,Indian,Vegetarian
+1917,Special Hot Cross Buns,Anglo-Indian,Festive
+1918,Special Kanda Poha,Indian,Vegetarian
+1919,Scones,Continental,Kid-Friendly
+1920,Jiffy Chocolate Souffle,Anglo-Indian,Kid-Friendly
+1921,Rava Thalipeeth,Indian,Vegetarian
+1922,Raw plantain kofta curry,Indian,Vegetarian
+1923,Red Chicken Fry,Indian,Non-Vegetarian
+1924,Vermicelli Halwa,Indian,Kid-Friendly
+1925,Aloo-Paneer Paratha,Indian,Kid-Friendly
+1926,Savoury Boiled Egg Fritters,Anglo-Indian,Non-Vegetarian
+1927,Tur Dal Kofta,Indian,Vegetarian
+1928,Flavoursome Tamarind Rice,Indian,Vegetarian
+1929,Traditional Vegetable Noodles,Indian,Kid-Friendly
+1930,Special Kakara,Indian,Festive
+1931,Rice Noodle Dish,Indian,Vegetarian
+1932,Ridge or Bottle Gourd with Greens,Indian,Non-Vegetarian
+1933,Yetti Fry (Prawn Fry),Indian,Non-Vegetarian
+1934,Shrimp Salsa,Mexican,Non-Vegetarian
+1935,Cucumber Banana Raita,Indian,Vegetarian
+1936,Special Paneer Jalfrezi,Indian,Vegetarian
+1937,Yam Okra Pepper Fry,Indian,Vegetarian
+1938,Veggie Herb Flavoured Toor Dal,Indian,Vegetarian
+1939,Tuna Cutlet,Indian,Non-Vegetarian
+1940,Yummy Kaju Burfi,Indian,Festive
+1941,Soya Parotha,Indian,Vegetarian
+1942,Horse gram drink,Indian,Kid-Friendly
+1943,Roasted Jacket Potatoes,Indian,Vegetarian
+1944,Easy rava dosa,Indian,Kid-Friendly
+1945,Akrot-Anaanas Raita,Indian,Festive
+1946,Sizzling Spinach Chutney,Indian,Vegetarian
+1947,Rasam Dosa,Indian,Vegetarian
+1948,Chilled Rice Pudding,Indian,Non-Vegetarian
+1949,Chocolate Souffle,Anglo-Indian,Festive
+1950,Red chilli chammanthi,Indian,Vegetarian
+1951,Special Onion Dosas,Indian,Vegetarian
+1952,Adai with Red Chillies,Indian,Vegetarian
+1953,Ucche Bhaja,Indian,Vegetarian
+1954,Vegetable khichdi,Indian,Vegetarian
+1955,Shahi Machhi Patiala,Indian,Non-Vegetarian
+1956,Radish leaves dal,Indian,Vegetarian
+1957,Zesty Coriander Rice,Indian,Vegetarian
+1958,Sabudana and Aloo Vada,Indian,Vegetarian
+1959,Tangy Vada Curry,Indian,Vegetarian
+1960,Sassy Tomato Thugayal,Indian,Kid-Friendly
+1961,Special Methi Pulao,Indian,Vegetarian
+1962,Shahi Parantha,Indian,Vegetarian
+1963,Phaldari Kofta,Indian,Vegetarian
+1964,Red Fish Curry - Kerala style,American,Non-Vegetarian
+1965,Simple Potato Curry,Indian,Vegetarian
+1966,Aloo Rassewale,Indian,Vegetarian
+1967,Tortilla Wrap,Mexican,Vegetarian
+1968,X'Mas Delight,Indian,Festive
+1969,Red Lentil and Barley Soup,American,Vegetarian
+1970,Almond Milkshake,Indian,Kid-Friendly
+1971,Whole Wheat Palak Paratha,Indian,Vegetarian
+1972,Special Paneer Tikka,Indian,Vegetarian
+1973,Potato Raita,Indian,Vegetarian
+1974,Hot n Spicy Tomato Chutney,Indian,Vegetarian
+1975,Aloo Tamatar,Indian,Vegetarian
+1976,Special Vadakari,Indian,Vegetarian
+1977,Whole Chicken Pot Roast,Anglo-Indian,Non-Vegetarian
+1978,Turai (Ridge gourd) Ke Sabzi,Indian,Vegetarian
+1979,Cocoa Glace Icing,Continental,Festive
+1980,Vegan Choco-Oats Cookies,Continental,Kid-Friendly
+1981,Special Vegetable Pancake,Indian,Vegetarian
+1982,Potato with spinach,Indian,Vegetarian
+1983,Dahi Murgi,Indian,Non-Vegetarian
+1984,Palak Snack,Indian,Vegetarian
+1985,Yummy Yam Curry,Indian,Vegetarian
+1986,Tri-Colour Stir-fry,Indian,Vegetarian
+1987,Traditional Paneer Paratha,Indian,Kid-Friendly
+1988,Chicken with pecans,Indian,Non-Vegetarian
+1989,Vrat ke Jeera Aloo,Indian,Festive
+1990,Vegetable Raita,Indian,Vegetarian
+1991,Simple Pineapple Dessert,Indian,Kid-Friendly
+1992,Yummy Almond Burfi,Indian,Kid-Friendly
+1993,Yummy Bisi Bele Bath,Indian,Vegetarian
+1994,Traditional Tomato Rasam,Indian,Vegetarian
+1995,Egg And Cauliflower Casserole,Anglo-Indian,Non-Vegetarian
+1996,Veg Boiled Yong Tow Foo,Chinese,Vegetarian
+1997,Vegetable kuska,Indian,Vegetarian
+1998,Dhapalam,Indian,Kid-Friendly
+1999,Vegetable Pulao (Microwave),Indian,Vegetarian
+2000,Vanilla flavored Canary Pudding,Indian,Kid-Friendly
+2001,Whole Green Moong Dal,Indian,Vegetarian
+2002,Aloo Mutter Masala,Indian,Vegetarian
+2003,Turkey with Chestnut Dressing and Butter,Continental,Non-Vegetarian
+2004,Sugar free Milk Chocolate,American,Vegetarian
+2005,Winter Salad,Continental,Non-Vegetarian
+2006,Tomato Risotto with Mascarpone,Italian,Vegetarian
+2007,Whole meal Pita Bread,Indian,Kid-Friendly
+2008,Traditional Onion Pickle,Indian,Vegetarian
+2009,Vennaipoottu,Indian,Festive
+2010,Urad Dal Chakki,Indian,Vegetarian
+2011,Vazhapoo Porial,Indian,Vegetarian
+2012,Dudhi I Jo Seero (Lauki Ka Halwa),Indian,Kid-Friendly
+2013,Refreshing Sundae,Indian,Kid-Friendly
+2014,Vadai Curry,Indian,Vegetarian
+2015,Crispy Aloo Tikki with Noodles,Indian,Festive
+2016,Pineapple Semolina Cake,Continental,Kid-Friendly
+2017,Traditional Homemade Mysore Pak,Indian,Kid-Friendly
+2018,Vermicelli Pudding with saffron,Indian,Festive
+2019,Vrat ke Chawal,Indian,Festive
+2020,Watermelon Mutton,Indian,Non-Vegetarian
+2021,Vermicelli Daddojanam,Indian,Vegetarian
+2022,Mango Pickle With Fenugreek,Indian,Vegetarian
+2023,Yellow Pumpkin Adai,Indian,Vegetarian
+2024,Veg Hariyali,Indian,Vegetarian
+2025,Saboodana Khichidi,Indian,Festive
+2026,Must-eat Gulab Jamuns,Indian,Kid-Friendly
+2027,Traditional Dal Makhani,Indian,Vegetarian
+2028,Quick n Easy Aloo Fry,Indian,Vegetarian
+2029,Easy Akki Roti,Indian,Vegetarian
+2030,Varuthu Ariatha Kuzhambu,Indian,Vegetarian
+2031,Winter Ladoo ( Thandi Ke Ladoo ),Indian,Festive
+2032,Tri colour poha,Indian,High-Protein
+2033,White Pumpkin Morkuzhambu,Indian,Vegetarian
+2034,Vegetable Dalma,Indian,Vegetarian
+2035,Zucchini Kofta,Indian,Vegetarian
+2036,Tomato Cucumber Pickups,Indian,Vegetarian
+2037,Tasty American Chop Suey,Chinese,Vegetarian
+2038,Paneer Sandwich Pakoras,Indian,Vegetarian
+2039,Whole Moong Sprouts Raita,Indian,Festive
+2040,Chicken Cheese and Egg Casserole,American,Non-Vegetarian
+2041,Zucchini Rice,Indian,Vegetarian
+2042,Yummy Pasta,Italian,Kid-Friendly
+2043,Lauki Sabji,Indian,Vegetarian
+2044,Amarantha Greens (Palak Saaru),Indian,Vegetarian
+2045,Watermelon Chiller,Indian,Kid-Friendly
+2046,Vegetable Pilaf (Palau),Anglo-Indian,Vegetarian
+2047,Vegetable Barbeque,Indian,Vegetarian
+2048,Wheat-Juwar Vada,Indian,Vegetarian
+2049,Zucchini N Potato Vadai,Indian,Vegetarian
+2050,Mango and Peach Cream,Continental,Vegetarian
+2051,Vegetable Egg Rolls,Indian,Non-Vegetarian
+2052,Doodhi Curry,Indian,Vegetarian
+2053,Traditional Tomato Soup,Indian,Vegetarian
+2054,Nutritious Aloo Palak,Indian,Vegetarian
+2055,Vegan Chilli,South-American,Kid-Friendly
+2056,Gulab Jamun,Indian,Vegetarian
+2057,Tortilla Samosas,Indian,Kid-Friendly
+2058,Yogi Rathna,Indian,Vegetarian
+2059,Aloo Ki Sabzi,Indian,Vegetarian
+2060,Plain Paras Khaja,Indian,Festive
+2061,Rice and Dal Adai,Indian,Vegetarian
+2062,Aloo Amritsari,Indian,Vegetarian
+2063,Veggie Pesto Pasta,Italian,Festive
+2064,Yakhni Pulao,Indian,Vegetarian
+2065,Zucchini Clear Soup,Indian,Vegetarian
+2066,Khakhra Chutney,Indian,Vegetarian
+2067,Cream of Olive Soup and Parsley,American,Vegetarian
+2068,Vepam Poo Pachadi,Indian,Festive
+2069,Vegetable Chettinadu,Indian,Vegetarian
+2070,Washer Man's Pie,Anglo-Indian,Kid-Friendly
+2071,Simple Sarson Ka Saag,Indian,Vegetarian
+2072,Warm Spinach Salad on Croutes,Indian,Vegetarian
+2073,Zucchini - Courgette Crown Bread,Indian,Kid-Friendly
+2074,Veg Parathas,Indian,Vegetarian
+2075,Watermelon Slush with Ice Cream,Continental,Kid-Friendly
+2076,Yam Side Dish,Anglo-Indian,Vegetarian
+2077,White Radish Dal,Indian,Vegetarian
+2078,Chicken & Potato Stew,Anglo-Indian,Non-Vegetarian
+2079,Nutritious Cabbage paratha,Indian,Vegetarian
+2080,Chicken Gravy with Egg,Indian,Non-Vegetarian
+2081,Wholesome Aloo-Pyaaz,Indian,Vegetarian
+2082,Yogurt Chicken with Spices,Indian,Non-Vegetarian
+2083,Ugadi Pachadi,Indian,Vegetarian
+2084,Yellow Dal Fry,Indian,Vegetarian
+2085,Diet Salad,Indian,Low-Fat
+2086,Vegetables in Onion Masala,Indian,Vegetarian
+2087,Vegetable arhar dal,Indian,Vegetarian
+2088,Watermelon Delight,Anglo-Indian,Kid-Friendly
+2089,Wok Fried Chilli Prawns,Chinese,Non-Vegetarian
+2090,Very Veggie Bread Upma,Indian,Vegetarian
+2091,Zucchini Stir Fry,Indian,Festive
+2092,Vattal Kozhambu,Indian,Vegetarian
+2093,Varyoon Patata,Indian,Vegetarian
+2094,Aloo Jeera Fry,Indian,Vegetarian
+2095,Traditional Vegetable Jhalfrazie,Indian,Vegetarian
+2096,Tuna Stuffed Bell Peppers,Continental,Non-Vegetarian
+2097,Easy Aloo Paratha,Indian,Vegetarian
+2098,Wheat Bread Sandwiches,Continental,Kid-Friendly
+2099,Fantastic Taco Casserole,American,Vegetarian
+2100,Barbari Bread,Iranian,Vegetarian
+2101,Coconut Cookies with vanilla essence,Anglo-Indian,Kid-Friendly
+2102,Quick Aloo Paratha,Indian,Vegetarian
+2103,Orange Cream Coffee,American,Vegetarian
+2104,Twisted Lime Drink,Indian,Vegetarian
+2105,Almond Mysore-pak,Indian,Festive
+2106,White Butter Chicken,Indian,Non-Vegetarian
+2107,Chicken Buffad (Christmas Stew),Anglo-Indian,Non-Vegetarian
+2108,Almond and Squash Kheer,Indian,Festive
+2109,Egg Indad,Indian,Non-Vegetarian
+2110,White Pumpkin Subji,Indian,Vegetarian
+2111,Traditional Vegetable Patholi,Indian,Vegetarian
+2112,Vegetable Macaroni,Italian,Vegetarian
+2113,Zero Oil Bake Potato Chips,Continental,Vegetarian
+2114,Ande ka kabab,Anglo-Indian,Non-Vegetarian
+2115,Yummy Crushed Lemon Pickle,Indian,Vegetarian
+2116,Sago Pancake,Indian,Kid-Friendly
+2117,Trifle Khubani (Apricots),Indian,Kid-Friendly
+2118,Traditional Pal Payasam,Indian,Festive
+2119,Vegetable Chandni,Indian,Kid-Friendly
+2120,Veg Cheese Toast Sandwich,Indian,Kid-Friendly
+2121,Zarda (sweet yellow rice),Indian,Kid-Friendly
+2122,Pista Burfi,Indian,Festive
+2123,Varutharacha Meen Curry,Indian,Non-Vegetarian
+2124,Special Tomato Sambal,Indian,Vegetarian
+2125,American Walnut Brownies,American,Kid-Friendly
+2126,Spinach Raita,Indian,Vegetarian
+2127,Alsa (Hareesa),Arab,Non-Vegetarian
+2128,Aloo Methi Fry,Indian,Vegetarian
+2129,Zucchini tomato poduthuval,Indian,Vegetarian
+2130,Vegetable Kaara Kozhukattai,Indian,Vegetarian
+2131,Almond Chutney,Indian,Vegetarian
+2132,Corn Pulao with Apple Raita,Indian,Vegetarian
+2133,Aloo Gobi in Curd based Masala,Indian,Vegetarian
+2134,Tort-Ds,Continental,Non-Vegetarian
+2135,vegetable poha,Indian,Vegetarian
+2136,Traditional Ukadiche Modak,Indian,Vegetarian
+2137,Aloo Pyaaz Parathas,Indian,Vegetarian
+2138,Apple Almond Rabdi,Indian,Vegetarian
+2139,Vegetable Sour Pickle,Indian,Vegetarian
+2140,Wheat Flour Ladoo,Indian,Festive
+2141,Walnut Apple Rice,Continental,Vegetarian
+2142,Quick Mixed vegetable sambar,Indian,Vegetarian
+2143,Onion Adai,Indian,Vegetarian
+2144,Tuna Burgers,American,Kid-Friendly
+2145,Plain Aloo Palak,Indian,Vegetarian
+2146,Cheesy Bake Cauliflower,Anglo-Indian,Non-Vegetarian
+2147,Vegetable Tofu Pancakes,Asian,Vegetarian
+2148,Deep fried Chicken Pakoras,Indian,Non-Vegetarian
+2149,Palak Makke Capsicum Wali,Indian,Vegetarian
+2150,Simple Broccoli Pakoda,Indian,Vegetarian
+2151,Tri-Colour Marble Cake,Anglo-Indian,Kid-Friendly
+2152,Veg Mexican Crunchy Wraps,Continental,Vegetarian
+2153,Vegetable Masala Curry,Indian,Vegetarian
+2154,Traditional Kanchipuram Idli,Indian,Kid-Friendly
+2155,Zesty Tomato soup,Indian,Vegetarian
+2156,Traditional Paneer Kofta,Indian,Vegetarian
+2157,Traditional Naan,Indian,Festive
+2158,Hot Caramel Choco Tarts,Continental,Kid-Friendly
+2159,Methi Sambhar,Indian,Vegetarian
+2160,Tuna and cucumber buns,American,Non-Vegetarian
+2161,Chocolate Fudge Pudding,American,Kid-Friendly
+2162,Plain Almond Burfi,Indian,Kid-Friendly
+2163,Vanilla Ice Cream,Indian,Kid-Friendly
+2164,Zucchini Tomato Topping,Indian,Vegetarian
+2165,Yellow Shrimp Curry,Thai,Non-Vegetarian
+2166,Zuchini Rotis,Indian,Vegetarian
+2167,Simple Guttivankaya Curry,Indian,Vegetarian
+2168,Saffron Flavored Almond Milkshake,Indian,Vegetarian
+2169,Vegetable Salad,Chinese,Vegetarian
+2170,Upperi,Indian,Festive
+2171,Aloo Ghosht,Indian,Non-Vegetarian
+2172,Traditional Goan Christmas Cake,Indian,Festive
+2173,Microwave Almond Brownies,American,Kid-Friendly
+2174,Special Palak Corn Brown Rice,Indian,Vegetarian
+2175,Valhi Chicken Kebabs,Anglo-Indian,Non-Vegetarian
+2176,Savoury Doughnuts,Anglo-Indian,Kid-Friendly
+2177,White Chocolate Raspberry Cheesecake,American,Kid-Friendly
+2178,Vegetable Cheese Toast,Indian,Vegetarian
+2179,Vegetable Shrimp,Indian,Festive
+2180,Udin Vada,Indian,Vegetarian
+2181,Vegetable Sizzler,Indian,Vegetarian
+2182,Sassy Vegetable Fried Rice,Indian,Vegetarian
+2183,Veggie Sub,Indian,Vegetarian
+2184,Fish Ambotik,Indian,Festive
+2185,Whole Wheat and Nut Muffins,American,Kid-Friendly
+2186,White Coconut Milk Rice,Indian,Vegetarian
+2187,Semolina Pancakes,Indian,Kid-Friendly
+2188,"Rich, spicy ponganalu",Indian,Vegetarian
+2189,Soya Yummy Patties,Indian,Festive
+2190,Mixed Bhaji,Indian,Vegetarian
+2191,Traditional Onion Rice,Indian,Vegetarian
+2192,Whole Eggplant Fry,Indian,Kid-Friendly
+2193,Rustic dal,Indian,Vegetarian
+2194,Simple Masala Paneer,Indian,Vegetarian
+2195,Simple Instant Dosa,Indian,Vegetarian
+2196,Date-Nut Slices,Continental,Kid-Friendly
+2197,Special Onion Masala Vada,Indian,Vegetarian
+2198,Vegetable Lasagne,Indian,Festive
+2199,7 Cups Besan Sweet,Indian,Festive
+2200,Roomali Roti,Continental,Kid-Friendly
+2201,Tripe - Hot and Spicy,Anglo-Indian,Non-Vegetarian
+2202,Roasted Duck,Indian,Diet
+2203,Savoury Baby Potatoes,Anglo-Indian,Vegetarian
+2204,Pasta and Potato Roast,Indian,Festive
+2205,Special Tomato Pickle,Indian,Vegetarian
+2206,Coconut Fudge,Anglo-Indian,Festive
+2207,Raisin Chutney,Indian,Festive
+2208,Simple garlicky tamarind dal,Indian,Vegetarian
+2209,Traditional Vegetable Pakoras,Indian,Vegetarian
+2210,Dhungar Paneer Tikka,Indian,Vegetarian
+2211,Saboodana Vada,Indian,Vegetarian
+2212,Satay Sauce,Thai,Vegetarian
+2213,Rice Flakes Kheer,Indian,Vegetarian
+2214,Red Chilli Fish Curry,Indian,Non-Vegetarian
+2215,Rice Flakes Upma,Indian,Vegetarian
+2216,South Indian Goda masala,Indian,Vegetarian
+2217,South Indian kadi (majjiga pulusu),Indian,Vegetarian
+2218,Shrimp Stir Fry,Chinese,Non-Vegetarian
+2219,Shavge Payasam,Indian,Festive
+2220,Soothing khichdi,Indian,Festive
+2221,Soft Gulab Jamuns,Indian,Kid-Friendly
+2222,Simple Instant Mango Pickle,Indian,Vegetarian
+2223,Simple Mango Lassi,Indian,Vegetarian
+2224,Red Wine,Indian,Festive
+2225,Salted Microwaved Cashews,Indian,Vegetarian
+2226,Simple Chicken,Indian,Non-Vegetarian
+2227,Simple Pati Sapta,Indian,Festive
+2228,Sanna Khotto,Indian,Vegetarian
+2229,Sizzling Tandoori Aloo,Indian,Vegetarian
+2230,Solkadi,Indian,Festive
+2231,Special Kadgi Chakko,Indian,Vegetarian
+2232,Simple Peanut chutney,Indian,Kid-Friendly
+2233,Sizzling Therati Paal,Indian,Kid-Friendly
+2234,Rawa and Mawa Laddoos,Indian,Vegetarian
+2235,Sambar,Indian,Vegetarian
+2236,Simple Iced Tea,Indian,Vegetarian
+2237,Simple Mathri,Indian,Kid-Friendly
+2238,Simple Mushroom Biryani,Indian,Non-Vegetarian
+2239,Simple stuffed capsicum,Indian,Vegetarian
+2240,Rich Chocolate Smoothies,Indian,Vegetarian
+2241,Soda Pops,Indian,Kid-Friendly
+2242,Simple Methi Chicken,Indian,Non-Vegetarian
+2243,Special Masala Baingan,Indian,Kid-Friendly
+2244,Salted gooseberry pickle,Indian,Kid-Friendly
+2245,Shunti (Ginger tambuli),Indian,Vegetarian
+2246,Simple Mor Kuzhambu,Indian,Vegetarian
+2247,South Indian Peas Mushroom Chilli Fry,Indian,Vegetarian
+2248,Raw Tomato Kootu,Indian,Vegetarian
+2249,Special Orange Floats,Continental,Festive
+2250,Smoothie,Indian,Vegetarian
+2251,Raw rice Dosas,Indian,Vegetarian
+2252,Soya Seekh Kebab,Indian,Vegetarian
+2253,Special Masala Puri,Indian,Kid-Friendly
+2254,Spaghetti with meat balls,Italian,Non-Vegetarian
+2255,Simple Plum Cake,Anglo-Indian,Festive
+2256,Special Pancakes,Continental,Kid-Friendly
+2257,Sizzling Sweet corn vegetable soup,Chinese,Vegetarian
+2258,Special Kheer,Indian,Vegetarian
+2259,Soya Sour and pepper Soup,Indian,Vegetarian
+2260,Shabnam Curry,Indian,Festive
+2261,Sizzling Sweet Potato Chips,Indian,Kid-Friendly
+2262,Shaahi Jhinga Masaledaar,Indian,Non-Vegetarian
+2263,Sevai Fruit Surprise,Indian,Festive
+2264,Red Chilly Paste - Chinese Recipe,Russian,Non-Vegetarian
+2265,Semolina Kakara,Indian,Festive
+2266,Simple Paruppu Usili,Indian,Vegetarian
+2267,Sesame Diyas,Indian,Kid-Friendly
+2268,Savoury Bread (Bread Upma),Indian,Vegetarian
+2269,Soft n Easy Dosa,Indian,Vegetarian
+2270,Simple Cucumber Kootu,Indian,Vegetarian
+2271,Soy Chicken Kebabs,Indian,Festive
+2272,Sizzling Tandoori Chicken Masala,Indian,Festive
+2273,Shrimp Masala (Kolambiche Suke),Indian,Non-Vegetarian
+2274,Spaghetti with Smoked Tomato Sauce and Basil,Italian,Kid-Friendly
+2275,Soft Potato Kachoris,Indian,Kid-Friendly
+2276,Simple Lentil Soup,Continental,Non-Vegetarian
+2277,Sizzling Tender Coconut Pudding,Continental,Vegetarian
+2278,Seyal Kadai Gosht,Indian,Non-Vegetarian
+2279,Simple Homemade Avial,Indian,Vegetarian
+2280,Singhare Ke Parathe,Indian,Vegetarian
+2281,Sabudana khichdi,Indian,Kid-Friendly
+2282,Special Green Chilli Pickle,Indian,Vegetarian
+2283,Simple Potato and Cucumber Kootu,Indian,Vegetarian
+2284,Simple Fruit Cake,Indian,Festive
+2285,Roasted Wheat Purwalankai,Indian,Vegetarian
+2286,Raw Banana Plantain Podimas,Indian,Vegetarian
+2287,Raw tomato chutney,Indian,Vegetarian
+2288,Sathyanarayana Prasad (Seera),Indian,Vegetarian
+2289,Raw banana curry with methi leaves,Indian,Vegetarian
+2290,Shrimp Potato Fingers,Indian,Non-Vegetarian
+2291,Simple Kofta Curry,Indian,Non-Vegetarian
+2292,Snow Balls Kheer,Indian,Festive
+2293,Special Mutton Stew,Indian,Non-Vegetarian
+2294,Special Mango Smoothie,Indian,Kid-Friendly
+2295,Sojjiappalu,Indian,Festive
+2296,Sora Puttu,Indian,Non-Vegetarian
+2297,Rava Idli with Sagoo,Indian,Low-Calorie
+2298,Special Rava Idli,Indian,Vegetarian
+2299,Rice Pakoda,Indian,Vegetarian
+2300,Sassy Tomato Chutney,Indian,Vegetarian
+2301,Soyawadi stuffed parathas,Indian,Vegetarian
+2302,Simple n Easy Shahi paneer,Indian,Vegetarian
+2303,Raw banana curry,Indian,Non-Vegetarian
+2304,Shahi Kheema Paratha,Indian,Non-Vegetarian
+2305,Special Spicy Chicken,Indian,Non-Vegetarian
+2306,Special Tomato Curry,Indian,Vegetarian
+2307,Salted potato wafer chaat,Indian,Kid-Friendly
+2308,Special Hyderabadi dal gosht,Indian,Non-Vegetarian
+2309,Sausage Sandwiches,Anglo-Indian,Kid-Friendly
+2310,Special Palak Dal,Indian,Vegetarian
+2311,Sitaphal Ice-cream,Indian,Kid-Friendly
+2312,Salsa with nachos,Indian,Vegetarian
+2313,Shahi tikki,Indian,Kid-Friendly
+2314,Ragi Manni,Indian,Festive
+2315,Singal,Indian,Vegetarian
+2316,Simple Paruppu Kadaiyal,Indian,Vegetarian
+2317,Shrimp Fry,Indian,Non-Vegetarian
+2318,Rice Flour Roti,Indian,Vegetarian
+2319,Special Gulab Jamun,Indian,Kid-Friendly
+2320,Simple Kothimbir Vadi,Indian,Vegetarian
+2321,Scrumptious Chocolate Cake,Continental,Kid-Friendly
+2322,Sambar with Pumpkin,Indian,Vegetarian
+2323,Rava Pancake,Indian,Kid-Friendly
+2324,Simple Cocoa Muffins,Continental,Kid-Friendly
+2325,Shahi Chicken Biryani,Indian,Non-Vegetarian
+2326,Simple Quick Batata Vada,Indian,Kid-Friendly
+2327,Special Mutton Palak,Indian,Non-Vegetarian
+2328,Special Matar Paneer,Indian,Vegetarian
+2329,Snake Gourd Cutlets,Indian,Vegetarian
+2330,Simple dal Curry,Indian,Vegetarian
+2331,Roasted bell pepper Soup,Indian,Vegetarian
+2332,Special Tomato Onion Raita,Indian,Vegetarian
+2333,Ragi Idiyappam with Coconut milk - Veg Kurma,Indian,Kid-Friendly
+2334,Shrimp Salad,Continental,Non-Vegetarian
+2335,Simple Kosambari,Indian,Vegetarian
+2336,Simple Mango Pie,Indian,Kid-Friendly
+2337,Snake Gourd Kootu,Indian,Vegetarian
+2338,Simple Pomfret Curry,Anglo-Indian,Non-Vegetarian
+2339,Soya Thandai,Indian,Vegetarian
+2340,Radish Foogath,Indian,Festive
+2341,Simple Goan Prawn Curry,Indian,Non-Vegetarian
+2342,Rava Pongal,Indian,Kid-Friendly
+2343,Smelt - Fish pickle,Indian,Non-Vegetarian
+2344,Raita with an Attitude,Indian,Kid-Friendly
+2345,Simple Rice kali,Indian,Vegetarian
+2346,Ripe Mango Kadi (Pulichery),Indian,Vegetarian
+2347,Red Bell Pepper and Sun-dried Tomato Dip,Indian,Vegetarian
+2348,Savoury Roast Duck,Anglo-Indian,Non-Vegetarian
+2349,Special Rava Dosa,Indian,Vegetarian
+2350,Shankarpala,Indian,Festive
+2351,Roast Beef,Indian,Non-Vegetarian
+2352,Sizzling Sweet Mango Chutney,Indian,Vegetarian
+2353,Soya bean Nuggets Curry,Indian,Kid-Friendly
+2354,Simple Rabdi,Indian,Kid-Friendly
+2355,Rice Idli Batter,Indian,Vegetarian
+2356,Special Paanagam,Indian,Kid-Friendly
+2357,Rose Milk Pudding,Indian,Kid-Friendly
+2358,Special Paneer Burji,Indian,Vegetarian
+2359,Mast Palak Paneer,Indian,Vegetarian
+2360,Special Palak Kofta,Indian,Festive
+2361,Simple Ginger Rasam,Indian,Vegetarian
+2362,Salmon Masala,Indian,Non-Vegetarian
+2363,Sago Vada with Peanuts,Indian,Kid-Friendly
+2364,Savoury Chilli Mutton,Indian,Festive
+2365,Sizzling Spinach Kurma,Indian,Vegetarian
+2366,Simple Sago Murukku,Indian,Vegetarian
+2367,Raw Banana Malai Fry,Indian,Vegetarian
+2368,How to make soft rotis,Indian,Vegetarian
+2369,Sev Shak,Indian,Vegetarian
+2370,Rice And Vegetable Paratha,Indian,Vegetarian
+2371,Sooji cupcake ( Microwave ),American,Vegetarian
+2372,Simple Scones,Continental,Kid-Friendly
+2373,Special Hot and Sour Soup,Indian,Vegetarian
+2374,Special Masala Akki Rotti,Indian,Vegetarian
+2375,Simple Puri,Indian,Vegetarian
+2376,Soya Gujia (Sweet),Indian,Kid-Friendly
+2377,Special Paneer Butter Masala,Indian,Vegetarian
+2378,Sizzling Spinach Dal,Indian,Vegetarian
+2379,Soft Mysore Paak,Indian,Festive
+2380,Special kheer with rice,Indian,Vegetarian
+2381,Rava Fish Fry,Indian,Festive
+2382,Shahi Gobi,Indian,Vegetarian
+2383,Roasted Tomato Salsa,Indian,Vegetarian
+2384,Snowy Orange Lilies,Indian,Vegetarian
+2385,Rava Onion Vada,Indian,Non-Vegetarian
+2386,Simple Bread Pizza,Continental,Kid-Friendly
+2387,Shrimp and Onions,Indian,Non-Vegetarian
+2388,Raita,Indian,Vegetarian
+2389,Simple Fried Fish,Anglo-Indian,Non-Vegetarian
+2390,Sassy Vegetable Biryani,Indian,Vegetarian
+2391,Soya Curry,Indian,Vegetarian
+2392,Sauteed Carrot Palya,Indian,Vegetarian
+2393,Raw Rice Kheer,Indian,Vegetarian
+2394,Special Ragi Roti,Indian,Festive
+2395,Soya Chutney,Indian,Vegetarian
+2396,Sajjappalu,Indian,Vegetarian
+2397,Simple Garlic Rice,Indian,Vegetarian
+2398,Shrimp Soup,Indian,Non-Vegetarian
+2399,Sizzling Tempura,Japanese,Non-Vegetarian
+2400,Seveiyan Lajawab,Indian,Kid-Friendly
+2401,Rajma Curry,Indian,Kid-Friendly
+2402,Rawalpindi Chole,Indian,Vegetarian
+2403,South Sea Noodles,Indian,Vegetarian
+2404,Sizzling Stuffed Tomatoes,Mexican,Vegetarian
+2405,Simple Fried Rice with Cashewnuts,Indian,Vegetarian
+2406,Rolled Pancakes,Continental,Festive
+2407,Soupy Dumplings,Indian,Vegetarian
+2408,Special Palak Kebab,Indian,Vegetarian
+2409,Rogan Josh,American,Non-Vegetarian
+2410,Rava Aloo Vada,Indian,Vegetarian
+2411,Sheer Kurma,Indian,Kid-Friendly
+2412,Scrambled Eggs on Toast,Indian,Non-Vegetarian
+2413,Simple Potato pepper fry,Indian,Kid-Friendly
+2414,Shahi Chicken,Indian,Non-Vegetarian
+2415,Simple Turai Dal,Indian,Vegetarian
+2416,Raw Banana Podimas,Indian,Vegetarian
+2417,Simple Rice Rotis,Indian,Vegetarian
+2418,Simple Mixed Vegetable Sambar,Indian,Vegetarian
+2419,Simple Apple chutney,Indian,Vegetarian
+2420,Shrimp with vegetables,Indian,Non-Vegetarian
+2421,Special Kerala Fish Curry,Indian,Non-Vegetarian
+2422,Special Mysore Rasam,Indian,Vegetarian
+2423,Sabzi Handi,Indian,Vegetarian
+2424,Simple Pineapple Souffle,French,Kid-Friendly
+2425,Rawa Kesari (Microwave),Indian,Vegetarian
+2426,Shikari-Murgi,Indian,Non-Vegetarian
+2427,Raw Tomato Curry,Indian,Vegetarian
+2428,Simple Khandvi,Indian,Vegetarian
+2429,Red Pumpkin Race,Continental,Non-Vegetarian
+2430,Ruhi Macher Kalia,Indian,Non-Vegetarian
+2431,Radish Sabzi,Indian,Festive
+2432,Snake Gourd Puttu,Indian,Vegetarian
+2433,Sooji ka cheela,Indian,Vegetarian
+2434,Rajma Korma,Indian,Kid-Friendly
+2435,Simple Meat Fry,Anglo-Indian,Non-Vegetarian
+2436,Rava Uttapam,Indian,Vegetarian
+2437,Festive Special Mysore Pak,Indian,Festive
+2438,Simple n Easy Fried Fish,Indian,Non-Vegetarian
+2439,Spanish Bake,Spanish,Kid-Friendly
+2440,Soft puffed rice dosa,Indian,Vegetarian
+2441,Sausage Sandwich,Continental,Non-Vegetarian
+2442,Savoury egg toast,American,Non-Vegetarian
+2443,Restaurant style Paneer Jalfrazie,Indian,Vegetarian
+2444,Sabzi kachodi,Indian,Vegetarian
+2445,Rajasthani Sattu,Indian,Festive
+2446,Sambhar recipe,Indian,Vegetarian
+2447,Simple Potato Bonda,Indian,Kid-Friendly
+2448,Sheera (Kesari Bath),Indian,Kid-Friendly
+2449,Sabj Murg,Indian,Festive
+2450,Saffron Cracked Wheat Pudding,Indian,Vegetarian
+2451,Rava Crispies,Indian,Vegetarian
+2452,Special Tomato Omelette,Indian,Vegetarian
+2453,Semiya Pakodi,Indian,Vegetarian
+2454,Shrimp Spread,Continental,Festive
+2455,Simple Pork Bafad,Indian,Non-Vegetarian
+2456,Sorakaya Masala,Indian,Vegetarian
+2457,Restaurant style Red Onion Pickle,Indian,Vegetarian
+2458,Rose Coconut Balls,Indian,Kid-Friendly
+2459,Simple Potato Spinach,Indian,Vegetarian
+2460,Simple Rawa Dosa,Indian,Vegetarian
+2461,South Indian Mor Kuzhambu,Indian,Vegetarian
+2462,Simple Cocoa Cake,Continental,Kid-Friendly
+2463,Special Sambar Masala,Indian,Vegetarian
+2464,Simple Salad With Sesame Dressing,Indian,Vegetarian
+2465,Simple Green Tomato chutney,Indian,Vegetarian
+2466,Special Panna,Indian,Vegetarian
+2467,Rasam,Indian,Festive
+2468,Solachi (Kokam) Kadhi,Indian,Vegetarian
+2469,Special Paratha,Indian,Vegetarian
+2470,Roasted Almond With Honey,Indian,Non-Vegetarian
+2471,Rice Flour Parathas,Indian,Vegetarian
+2472,Simple Prawn Fritters,Anglo-Indian,Non-Vegetarian
+2473,Sanoor,Indian,Non-Vegetarian
+2474,Rava-Ricotta Ladoo,Indian,Vegetarian
+2475,Rajma Ki Sabzi,Indian,Festive
+2476,Sabudana Kheer,Indian,Kid-Friendly
+2477,Santula (Mixed Vegetable Curry),Indian,Vegetarian
+2478,Sarson-ka-Saag,Asian,Vegetarian
+2479,Sizzling Spinach Rice,Indian,Vegetarian
+2480,Roasted peanut ladoo,Indian,Non-Vegetarian
+2481,Simple Spinach Rice,Indian,Vegetarian
+2482,Simple Pulla Kura,Indian,Kid-Friendly
+2483,Roasted Lamb,Indian,Non-Vegetarian
+2484,Onion Parathas for breakfast,Indian,Vegetarian
+2485,Sooji Kheer,Indian,Festive
+2486,South Indian style Navratan Korma,Indian,Vegetarian
+2487,Special Ram Khichidi,Indian,Kid-Friendly
+2488,Simple Mishti Doi,Indian,Kid-Friendly
+2489,Ridgegourd Theeyal,Indian,Vegetarian
+2490,Simple n Easy Cookies,American,Kid-Friendly
+2491,Saffron Srikhand,Indian,Vegetarian
+2492,Rosgulla,Indian,Vegetarian
+2493,Sizzling Spinach Pakoda,Indian,Kid-Friendly
+2494,Rice Royal,Indian,Vegetarian
+2495,Roast Whole Leg Of Lamb With A Hint Of Spice,Indian,Non-Vegetarian
+2496,Radish Sabji With Green Gram,Indian,Festive
+2497,Savoury Oat with rice Flakes,Indian,Diet
+2498,Special Sambar,Anglo-Indian,Vegetarian
+2499,Simple Garlic Chutney,Indian,Vegetarian
+2500,Simple Rasam,Asian,Vegetarian
+2501,Special Palak Kofta Curry,Indian,Vegetarian
+2502,Rogan Gosht,American,Non-Vegetarian
+2503,Special Pakku (Mutton Curry),Indian,Non-Vegetarian
+2504,Salmon Spread with Cream Cheese,Indian,Vegetarian
+2505,Sookha Jhinga,Indian,Non-Vegetarian
+2506,Rock toast and quick dosa,Mexican,Kid-Friendly
+2507,Rajasthani Kadhi,Indian,Vegetarian
+2508,Special Palak Dosa,Indian,Kid-Friendly
+2509,Soonth Ladoos,Indian,Kid-Friendly
+2510,Sambharwadi,Chinese,Non-Vegetarian
+2511,Sausage and Pasta Salami,Italian,Non-Vegetarian
+2512,Simple prawn sambal,Malaysian,Non-Vegetarian
+2513,Simple Moong dal halwa,Indian,Festive
+2514,Roasted Pear Salad,Indian,Vegetarian
+2515,Special Palak Paratha,Indian,Festive
+2516,Rice with sprouted gram,Indian,Vegetarian
+2517,Rava Ladoo Recipe,Indian,Kid-Friendly
+2518,Smooth Mango Pulp,Indian,Vegetarian
+2519,Rich Peanut Butter Cookies,Indian,Non-Vegetarian
+2520,Simple Mushroom Curry,Indian,Vegetarian
+2521,Savoury Sesame rice,Indian,Vegetarian
+2522,Rontas- Dhal,Continental,Non-Vegetarian
+2523,Ragada Puri,Indian,Festive
+2524,Roasted King Crab,Indian,Non-Vegetarian
+2525,Ram Tori,Indian,Kid-Friendly
+2526,Soya Sukha Curry,Indian,Vegetarian
+2527,Sambar with Fresh Grated Coconut,Indian,Kid-Friendly
+2528,Special Palak Raita,Indian,Vegetarian
+2529,Special Mangalore Bonda,Indian,Vegetarian
+2530,Simple Potato Bell pepper Sabzi,Indian,Vegetarian
+2531,Sardines-Greens Stew,African,Non-Vegetarian
+2532,Soya Nugget Cutlet,Indian,Kid-Friendly
+2533,Solachi Kadi,Indian,Vegetarian
+2534,Raita and Tomato Rice,Indian,Festive
+2535,Savona Scramble,Continental,Non-Vegetarian
+2536,Roasted Potatoes,Indian,Vegetarian
+2537,Simple Rogan Josh,Indian,Non-Vegetarian
+2538,Special Prawn Balchao,Indian,Non-Vegetarian
+2539,Mutton Chops with Potatoes,Anglo-Indian,Non-Vegetarian
+2540,Special Palak Roti,Indian,Vegetarian
+2541,Sol Kadhi,Indian,Festive
+2542,Soya Gram Flour Burfi,Indian,Festive
+2543,Sesame Green Chutney,Indian,Vegetarian
+2544,Salted Almonds,Indian,Kid-Friendly
+2545,Special Hyderabadi Biryani,Indian,Non-Vegetarian
+2546,Roasted Vegetables,Continental,Vegan
+2547,Roast Chicken,Indian,Non-Vegetarian
+2548,Simple Bread Cutlet,Indian,Vegetarian
+2549,South Indian lime pickle,Indian,Vegetarian
+2550,Special Cookies,American,Festive
+2551,Scrambled Egg Puffs,Anglo-Indian,Non-Vegetarian
+2552,Soaked-Dal Roti,Indian,Kid-Friendly
+2553,Shahi Fish,Indian,Festive
+2554,Special Banana Loaf,Indian,Kid-Friendly
+2555,Special Paneer Kofta,Indian,Vegetarian
+2556,Rasgulla from Milk,Continental,Vegetarian
+2557,Simple Groundnut Chutney,Indian,Vegetarian
+2558,Rosogolla Payesh,Indian,Vegetarian
+2559,Rajma Masala,Indian,Festive
+2560,Sooji Paniyaram,Indian,Vegetarian
+2561,Special Mysore Bonda,Indian,Vegetarian
+2562,Sankethi Style Raita,Indian,Vegetarian
+2563,Sorrel Pickle,Indian,Vegetarian
+2564,Simple Mushroom Sandwich,Indian,Vegetarian
+2565,Radish Majjige Huli,Indian,Vegetarian
+2566,Sizzling Veggie Casserole,Indian,Vegetarian
+2567,Red Gram - Green Gram Cachori,Anglo-Indian,Non-Vegetarian
+2568,Simple Scrambled Eggs,Indian,Non-Vegetarian
+2569,Simple dry egg curry,Indian,Non-Vegetarian
+2570,Sev Curry,Indian,Vegetarian
+2571,Special Masala Bhindi,Indian,Vegetarian
+2572,Sichuan style baby corn,Indian,Vegetarian
+2573,Special Moong Dal Dosa,Indian,Vegetarian
+2574,Simple pepper Mushroom,Indian,Festive
+2575,Rava Pakodas,Indian,Vegetarian
+2576,Sambhar for Idlis,Indian,Vegetarian
+2577,Raw Mango Coconut Chutney,Mexican,Vegetarian
+2578,Rajma Joghi,Indian,Festive
+2579,Special Palak Parathas,Indian,Vegetarian
+2580,Special Pal Payasam,Indian,Vegetarian
+2581,Simple Raw Mango Rice,Indian,Vegetarian
+2582,Sindhi Mutton,Indian,Non-Vegetarian
+2583,Rich Nutty Muffins,Indian,Non-Vegetarian
+2584,Simple French Toast,French,Non-Vegetarian
+2585,Rice Thenkuzhal,Indian,Vegetarian
+2586,Simple Carrot Halwa,Indian,Kid-Friendly
+2587,Southern Sorakkai (Bottle gourd),Indian,Vegetarian
+2588,Simple Chicken Curry,Anglo-Indian,Non-Vegetarian
+2589,Sauteed Noodles,Indian,Vegetarian
+2590,Salsa Dip,Indian,Vegetarian
+2591,Rava Mango Sheera,Indian,Vegetarian
+2592,Simple n Plain Gobi Manchurian,Indian,Vegetarian
+2593,Saga,Indian,Vegetarian
+2594,Special Onion Pakoras,Indian,Vegetarian
+2595,Sizzling Spinach Koftas,Indian,Vegetarian
+2596,Soup from Sprouts,Indian,Vegetarian
+2597,Red Chilli Lamb Fry,Russian,Festive
+2598,Sizzling Sweet and Sour Chicken,Chinese,Non-Vegetarian
+2599,Roasted Stuffed Turkey From Colonial Times,Indian,Non-Vegetarian
+2600,Red Masala Fried Fish,Anglo-Indian,Non-Vegetarian
+2601,Shahi Baingan Kabab,Indian,Vegetarian
+2602,Raw Banana Bhaji,Indian,Festive
+2603,Restaurant Style Chicken Curry,Indian,Kid-Friendly
+2604,Simple Jeera Rice,Indian,Vegetarian
+2605,Sooji Ladoo,Indian,Festive
+2606,Simple Gobi Paratha,Indian,Vegetarian
+2607,Sizzling Tandoori Style Chicken,Indian,Non-Vegetarian
+2608,Special Bread Pudding,Indian,Kid-Friendly
+2609,Special Onion Bhajji,Indian,Kid-Friendly
+2610,Snack from Ghaat,Indian,Vegetarian
+2611,Rasila Karela,Indian,Vegetarian
+2612,Scrumptious Bread Pudding,Continental,Festive
+2613,Special Shikanji,Indian,Vegetarian
+2614,Simple milk khoa,Indian,Kid-Friendly
+2615,Simple Rajma,Indian,Vegetarian
+2616,Special Paneer Fry,Indian,Vegetarian
+2617,Sizzling Prawns,Indian,Non-Vegetarian
+2618,Simple Pasta And Garlic,Italian,Kid-Friendly
+2619,Simple Radish Curry,Indian,Kid-Friendly
+2620,Savoury Sausages,Continental,Non-Vegetarian
+2621,Special Paneer Capsicum,Indian,Vegetarian
+2622,Seafood fried rice,Malaysian,Non-Vegetarian
+2623,Special Palak Rice,Indian,Vegetarian
+2624,Simple Pork Spare Ribs,Anglo-Indian,Non-Vegetarian
+2625,Rasam Masala,Indian,Vegetarian
+2626,Simple Ras Malai,Indian,Kid-Friendly
+2627,Rice Pongal,Indian,Vegetarian
+2628,Sago mung dal payasam,Indian,Vegetarian
+2629,Sliced Bhindi with Onions-Zucchini,Indian,Vegetarian
+2630,Special Prawn Vindaloo,Indian,Non-Vegetarian
+2631,Recycled Kalakand,Indian,Vegetarian
+2632,Special Kerala Adai,Indian,Festive
+2633,Simple Garlic Prawns,Indian,Non-Vegetarian
+2634,Rajma Biryani,Indian,Festive
+2635,Special Palak pakoda,Indian,Vegetarian
+2636,Sizzling Stuffed Eggs,Continental,Kid-Friendly
+2637,Sago vadam,Indian,Vegetarian
+2638,Special Ginger Cake,Continental,Kid-Friendly
+2639,red bell pepper Usili,Continental,Vegetarian
+2640,Simple Pineapple Rasam,Indian,Vegetarian
+2641,Sausage Roll Ups,Continental,Non-Vegetarian
+2642,Reinforced Tomato Soup,Indian,Vegetarian
+2643,Sindhi Kadhi,Indian,Vegetarian
+2644,Ragi Banana Cake,Indian,Kid-Friendly
+2645,Rice Korma,Indian,Vegetarian
+2646,Scotch Eggs,Continental,Kid-Friendly
+2647,Simple Motichoor Kheer,Indian,Kid-Friendly
+2648,Soy Greens,Indian,Vegetarian
+2649,Soya Palak,Indian,Vegetarian
+2650,Sizzling Sweet Bread Balls,Indian,Festive
+2651,Simple omelette,Anglo-Indian,Kid-Friendly
+2652,Refrigerated Mangoes,Indian,Vegetarian
+2653,Shrimp Potato Curry,Indian,Non-Vegetarian
+2654,Rajmah Biryani,Indian,Vegetarian
+2655,Sabudana Murukku,Indian,Kid-Friendly
+2656,Special Palak Chutney,Indian,Vegetarian
+2657,Red Butter Chicken,Indian,Non-Vegetarian
+2658,Simple Falooda,Indian,Kid-Friendly
+2659,Sherley Temple Mock tail,Continental,Non-Vegetarian
+2660,Simple pepper Rasam,Indian,Vegetarian
+2661,Rava Delight,Indian,Festive
+2662,Special Nasi Goreng Kampung,Malaysian,Non-Vegetarian
+2663,Simple Khopra Pak,Indian,Vegetarian
+2664,Shunthi (ginger) tambuli,Indian,Vegetarian
+2665,Simple Potato Stew,Indian,Vegetarian
+2666,Raw Jackfruit (Kathal) Pickle,Indian,Vegetarian
+2667,Santa Claus Milk,Continental,Festive
+2668,Special Olan,Indian,Vegetarian
+2669,Simla mirch raitha,Indian,Vegetarian
+2670,Scrunchy Tricolour Salad,Asian,Vegetarian
+2671,Sate,Sri-Lankan,Non-Vegetarian
+2672,Shrimp with Noodles,Continental,Non-Vegetarian
+2673,Shahi Gurda Gosht,Indian,Non-Vegetarian
+2674,Special Paneer Capsicum Burji,Indian,Vegetarian
+2675,Shrimp Noodle Soup with Vegetables,Chinese,Non-Vegetarian
+2676,Roti upama,Indian,Vegetarian
+2677,Rice Sweet,Indian,Vegetarian
+2678,Simple Black Forest Cake,Continental,Festive
+2679,Simple Kaththirikkai Kochchu,Indian,Kid-Friendly
+2680,Roast Leg Of Lamb,Indian,Festive
+2681,Rajma Masaledar,Indian,Kid-Friendly
+2682,Raw Banana Fry,Indian,Vegetarian
+2683,Soya Kebabs,Indian,Vegetarian
+2684,Sizzling Stuffed Capsicum,Indian,Vegetarian
+2685,Sapota Rasayan,Indian,Festive
+2686,Shrimp with coconut milk,Indian,Non-Vegetarian
+2687,Shrimp and Potato Fry,Continental,Non-Vegetarian
+2688,Ragi pindi boorelu (Sweet with nachini flour),Indian,Kid-Friendly
+2689,Sarse diye Dimer Paturi,Indian,Non-Vegetarian
+2690,Siam Ke Chaawal,Indian,Non-Vegetarian
+2691,Special Paneer Stuffed Tomatoes,American,Vegetarian
+2692,South Indian Mysore Pak,Indian,Kid-Friendly
+2693,Special Paneer Korma,Indian,Festive
+2694,Sizzling Palak Paneer,Indian,Vegetarian
+2695,Santula Oriyagharna,Indian,Vegetarian
+2696,Simple Ginger Tea,Indian,Vegetarian
+2697,Sabudana Cutlets,Indian,Festive
+2698,Siru payiru kootu,Indian,Vegetarian
+2699,Seyal Bread,Indian,Vegetarian
+2700,Somtam,Thai,Festive
+2701,Saffron risotto,Indian,Vegetarian
+2702,Sookhi Moong Ki Dal,Indian,Vegetarian
+2703,Shrimp Noodle Soup,Chinese,Non-Vegetarian
+2704,Salad sandwich,Indian,Kid-Friendly
+2705,Shahi Rogan Josh,Indian,Non-Vegetarian
+2706,Red Bean Burrito,Indian,Vegetarian
+2707,Shrimps in Coconut,Indian,Non-Vegetarian
+2708,Roti Roll with Tomato Twist,Indian,Kid-Friendly
+2709,Rawa kesari with cherry toppings,Indian,Vegetarian
+2710,Simple and Easy Rajma,Indian,Festive
+2711,Special Prawn Curry,Indian,Non-Vegetarian
+2712,Simple tea,Indian,Vegetarian
+2713,Simple Bread Upma,Indian,Vegetarian
+2714,Raw Jackfruit Eguru,Mediterranean,Non-Vegetarian
+2715,Simple Jeera Chicken,Indian,Non-Vegetarian
+2716,Simple Fish Fillet Fry,Indian,Non-Vegetarian
+2717,Spaghetti Bolognaise,Italian,Kid-Friendly
+2718,Simple Aloo Curry,Indian,Vegetarian
+2719,Simple n plain chicken and potato roast,Anglo-Indian,Non-Vegetarian
+2720,Red Pepper Pickle,Continental,Non-Vegetarian
+2721,Spaghetti with tomato and spinach cream sauce,Indian,Non-Vegetarian
+2722,Spaghetti Based Salad,Italian,Vegetarian
+2723,Sizzling Sweet Bread,Continental,Kid-Friendly
+2724,Rava Laddoo,Indian,Vegetarian
+2725,Red Bean Soup,Indian,Non-Vegetarian
+2726,Simple Bread Pudding,Indian,Kid-Friendly
+2727,Shrimp Cutlet,Indian,Non-Vegetarian
+2728,Sausage Rolls,Indian,Non-Vegetarian
+2729,Simple Chakkara Pongal,Indian,Kid-Friendly
+2730,Rice Payasam,Indian,Vegetarian
+2731,Sarvapindi,Indian,Kid-Friendly
+2732,Sizzling Tandoori Chicken,Indian,Festive
+2733,Soorana Chi Koshimbir (Spiced Yam),Indian,Vegetarian
+2734,Simple Roast Leg of Lamb,Indian,Non-Vegetarian
+2735,Rum Chicken,Indian,Non-Vegetarian
+2736,Simple Pakistani Style Fish curry,Pakistani,Non-Vegetarian
+2737,Sookhe Mutton Chops (Maharashtrian Style),Indian,Non-Vegetarian
+2738,Smoked chicken,Italian,Non-Vegetarian
+2739,Special Paal (Milk) Payasam,Indian,Kid-Friendly
+2740,Scrambled eggs and noodles,Chinese,Non-Vegetarian
+2741,Special Masala Arvi,Indian,Vegetarian
+2742,Special beef fry,Indian,Non-Vegetarian
+2743,Ragi idli,Indian,Festive
+2744,Soybean salad,Indian,Vegetarian
+2745,Simple Kaju Katli,Indian,Kid-Friendly
+2746,Special Nam Pon,Thai,Kid-Friendly
+2747,Simple Kulfi,Indian,Kid-Friendly
+2748,Simple Ridge gourd chutney,Indian,Non-Vegetarian
+2749,Rajma Pilaf,Indian,Vegetarian
+2750,Special Onion Chicken,Indian,Non-Vegetarian
+2751,Shrimp Chow Mein,Chinese,Non-Vegetarian
+2752,Soya Wonder,Indian,Vegetarian
+2753,Spaghetti Corn Pie,Italian,Vegetarian
+2754,Simple Salted Gooseberry Pickle,Indian,Vegetarian
+2755,Rice Crisps,Indian,Non-Vegetarian
+2756,Safed Gosht,Indian,Kid-Friendly
+2757,Rava Pulihora,Indian,Festive
+2758,Special Khandvi,Indian,Vegetarian
+2759,Soya Strawberry Ice-Cream,Indian,Kid-Friendly
+2760,Satrangi Sandwich,Indian,Kid-Friendly
+2761,Ranith Gada (Fish Curry),Indian,Festive
+2762,Sago Soup,Indian,Kid-Friendly
+2763,Sassy Tomato Rice,Indian,Vegetarian
+2764,Sizzling Spinach Paratha,Indian,Vegetarian
+2765,Rizala,Indian,Kid-Friendly
+2766,Soya bean-Capsicum curry,Indian,Vegetarian
+2767,Ridge Gourd Chutney with Coconut,Indian,Vegetarian
+2768,Shortbread Tower,American,Kid-Friendly
+2769,Sizzling Suva Channa Kadhi,Indian,Vegetarian
+2770,Simple Green Chicken,Indian,Non-Vegetarian
+2771,Simple Fried Masala Fish,Indian,Non-Vegetarian
+2772,Simple Chilli-Paneer,Indian,Festive
+2773,Ragi Laddoo,Indian,Kid-Friendly
+2774,Special Onion Pickle,Indian,Vegetarian
+2775,Rice Kurmuras,Indian,Vegetarian
+2776,Simple Kolhapuri Chicken Curry,Indian,Non-Vegetarian
+2777,Rava Sheera,Indian,Vegetarian
+2778,Saucy chicken,Continental,Non-Vegetarian
+2779,Savoury Pankies,Indian,Kid-Friendly
+2780,Soya Bean curry,Indian,Vegetarian
+2781,Rajma with Coconut,Indian,Kid-Friendly
+2782,Shark Fish Pickle,Indian,Festive
+2783,Simple Aloo Tikki,Indian,Vegetarian
+2784,Rosemary potato,Indian,Vegetarian
+2785,Soya Granule Upma,Indian,Vegetarian
+2786,Ridge gourd And Onion Chutney,Indian,Non-Vegetarian
+2787,Shaahi Paneer,Indian,Vegetarian
+2788,Special Pudina Chicken,Indian,Non-Vegetarian
+2789,Special Paal Payasam,Indian,Festive
+2790,Simple Pongal,Indian,Vegetarian
+2791,Simple Green Peas and Carrot Kurma,Indian,Vegetarian
+2792,Shredded Carrots In Yogurt,Anglo-Indian,Vegetarian
+2793,Saboodana (Sago) Khichdi,Indian,Vegetarian
+2794,Sambhar (Without Coconut),Indian,Vegetarian
+2795,Shrimp Baingan Bharta,Indian,Kid-Friendly
+2796,Rice Kichdi,Indian,Vegetarian
+2797,Rajma Coconut Stir-fry,Indian,Vegetarian
+2798,Raw Papaya Relish,Indian,Vegetarian
+2799,Slow chicken fry,Indian,Non-Vegetarian
+2800,Rajma Galouti Kebab,Indian,Kid-Friendly
+2801,Snake Gourd Raita,Indian,Vegetarian
+2802,Simple Mango Rice,Indian,Festive
+2803,Rawa Dosa,Indian,Vegetarian
+2804,Sago Murukku,Indian,Kid-Friendly
+2805,Scrambled Eggs in the Microwave,Indian,Non-Vegetarian
+2806,Sambar Bhath with Barley,Asian,Vegetarian
+2807,Simple Assamese Style Chicken with Turnip,Indian,Non-Vegetarian
+2808,Saaru,Indian,Kid-Friendly
+2809,Raspberry Quinoa Smoothie,Continental,Kid-Friendly
+2810,Sizzling Stuffed Potatoes,Italian,Kid-Friendly
+2811,Rava Uppu Seedai,Indian,Kid-Friendly
+2812,Red Green Spinach Curry,Indian,Vegetarian
+2813,Sizzling Sprouted Moong,Indian,Vegetarian
+2814,Rich Plum Cake,Indian,Festive
+2815,Special Onion gotsu,Indian,Vegetarian
+2816,Bread sandwich with marinara and veggies,Indian,Kid-Friendly
+2817,Radish paratha,Indian,Festive
+2818,Banana Cake with frosting,American,Kid-Friendly
+2819,Rice and Mixed Veggies Pakoda,Indian,Kid-Friendly
+2820,Bake Fish,Continental,Non-Vegetarian
+2821,Soya Chunks Kurma,Indian,Vegetarian
+2822,Bajji Ambade,Indian,Kid-Friendly
+2823,Ragi Millet vadis,Indian,Kid-Friendly
+2824,Special Khaman,Indian,Vegetarian
+2825,Spinach Gravy,Indian,Vegetarian
+2826,Badnekai Gojju,Indian,Vegetarian
+2827,Seafood Stew,Continental,Kid-Friendly
+2828,Boiled egg chilli fry,Indian,Non-Vegetarian
+2829,Rice and Barley Health Drink,Indian,Diet
+2830,Avocado Brownies,American,Kid-Friendly
+2831,Cabbage Poricha Kozhambu,Indian,Vegetarian
+2832,Brain Pepper Fry,Anglo-Indian,Non-Vegetarian
+2833,Scrambled Eggs,Indian,Non-Vegetarian
+2834,Sizzling Tandoori Fish Tikka,Indian,Non-Vegetarian
+2835,Baked Cheese Sticks,American,Non-Vegetarian
+2836,Sausage Bread Rolls,Anglo-Indian,Non-Vegetarian
+2837,Rajagaro Bakri,Indian,Festive
+2838,Pineapple Souffle,Anglo-Indian,Festive
+2839,Brinjal Thuvaiyal,Indian,Vegetarian
+2840,Beef Alimore,Indian,Non-Vegetarian
+2841,Festive Pineapple Pudding,Indian,Festive
+2842,Aratikaya Kura,Indian,Vegetarian
+2843,Sindhi Makhni Dal,Indian,Vegetarian
+2844,Beetroot Kheer,Indian,Vegetarian
+2845,April drink,Continental,Kid-Friendly
+2846,Anglo-Indian Jackfruit Curry,Indian,Vegetarian
+2847,Shrikand,Indian,Festive
+2848,Bharali Vaangi (Stuffed Brinjal),Indian,Vegetarian
+2849,Broccoli Thepla,Indian,Vegetarian
+2850,Bisi Bele Huli Anna Masala,Indian,Vegetarian
+2851,3-in-1 Mixed Vegetable,Indian,Kid-Friendly
+2852,Basil Flavoured Tea,Indian,Vegetarian
+2853,Butter Beans Side Dish,Anglo-Indian,Vegetarian
+2854,Butter Nankhatai,Indian,Kid-Friendly
+2855,Raw plantain subzi,Indian,Kid-Friendly
+2856,Special Paneer-Egg Curry,Indian,Non-Vegetarian
+2857,Simple Roast Chicken,Indian,Non-Vegetarian
+2858,South Indian Vegetables,Indian,Vegetarian
+2859,Raw Plantain (Aratikaaya) Curry,Indian,Vegetarian
+2860,Santula (mixed vegetables Oriya style),Indian,Vegetarian
+2861,Besan Hot Curry,Indian,Vegetarian
+2862,Banh Pho Bo,Asian,Non-Vegetarian
+2863,Blue Brinjal Curry,Indian,Vegetarian
+2864,Beef Cutlets,Indian,Non-Vegetarian
+2865,Butter Chicken for Pulavs,Indian,Non-Vegetarian
+2866,Bread Seasoned,American,Vegetarian
+2867,Cabbage Besan,Indian,Vegetarian
+2868,Tangy Idli Chaat,Indian,Kid-Friendly
+2869,Bread bonda,Indian,Festive
+2870,South Indian Machuri,Indian,Vegetarian
+2871,Black Masala Kichidi,Indian,Vegetarian
+2872,Arbi Patties,Indian,Festive
+2873,Baigan Masala,Indian,Kid-Friendly
+2874,Chicken And White Sauce Cutlet,Indian,Non-Vegetarian
+2875,Banana Custard,Indian,Vegetarian
+2876,Apple Spice Cake,Continental,Festive
+2877,Bread and Corn Supreme,Indian,Kid-Friendly
+2878,Egg Vindaloo,Indian,Non-Vegetarian
+2879,Appams with mutton stew,Indian,Non-Vegetarian
+2880,Bake Potatoes With Garlic Cream Cheese,Indian,Vegetarian
+2881,Mulligatawny Soup,Anglo-Indian,Non-Vegetarian
+2882,Beef kheema Cutlets,Asian,Non-Vegetarian
+2883,Beef Steak Fried,Asian,Non-Vegetarian
+2884,Bitter Gourd Kosumbari,Indian,Vegetarian
+2885,Beetroot pulao,Indian,Vegetarian
+2886,Baghara Baingan,Indian,Kid-Friendly
+2887,Milagu rasam,Indian,Vegetarian
+2888,Bihari Seekh Kababs,Indian,Non-Vegetarian
+2889,Cabinet Pudding,Anglo-Indian,Festive
+2890,Zucchini Poricha Kootu,Indian,Vegetarian
+2891,Badhushah,Indian,Kid-Friendly
+2892,Basbousa,Mediterranean,Non-Vegetarian
+2893,Zesty Tomato Rice with Peanuts,Indian,Vegetarian
+2894,Buttered Corn Cobs with Dried Herbs,American,Vegetarian
+2895,Appalam Vathal Kuzhambu,Indian,Vegetarian
+2896,Black Eyed Bean Masala,Indian,Non-Vegetarian
+2897,Boneless Spicy Chilli Chicken 65,Indian,Non-Vegetarian
+2898,Beans Burgers,Continental,Kid-Friendly
+2899,Cabbage Roti,Indian,Vegetarian
+2900,Banana Kaju Halwa,Indian,Kid-Friendly
+2901,Brinjal Roast,Indian,Vegetarian
+2902,Biscuit Ice Cream Sandwiches,American,Vegetarian
+2903,Banana and Curd Salad,Indian,Vegetarian
+2904,Cappuccino Classic,Continental,Kid-Friendly
+2905,Asparagus Sabzi,Indian,Vegetarian
+2906,Bhindi-Dahi Masala,Indian,Kid-Friendly
+2907,Bake Mushroom,Asian,Vegetarian
+2908,Barbeque Chicken on the Grill,American,Non-Vegetarian
+2909,Angaya Powder,Indian,Vegetarian
+2910,Bhavnagari Gathiya,Indian,Vegetarian
+2911,Butter Chicken Masala,Indian,Non-Vegetarian
+2912,Brinjal with Prawns,Chinese,Non-Vegetarian
+2913,Besan ki Chakki,Indian,Kid-Friendly
+2914,Spring Rolls,Indian,Kid-Friendly
+2915,Fish croquettes,Indian,Non-Vegetarian
+2916,Besan Parantha,Indian,Kid-Friendly
+2917,Bruschetta With Tomato And Basil,Italian,Vegetarian
+2918,Ash Gourd Burfi,Indian,Festive
+2919,Bread Tits Bits,Continental,Kid-Friendly
+2920,Bhindi Masala Gravy,Indian,Vegetarian
+2921,Bitter Gourd Curry with coconut,Indian,Vegetarian
+2922,Pomfret Curry,Indian,Festive
+2923,Avocado-coconut curry,Indian,Kid-Friendly
+2924,Aloo moongfali,Indian,Vegetarian
+2925,Zesty pepper Chicken,Indian,Non-Vegetarian
+2926,Amaranth Leaves Vada - Tambidi Bajji Ambado,Indian,Vegetarian
+2927,Badami Saagu,Indian,Vegetarian
+2928,Bengal Shrimp curry,Anglo-Indian,Non-Vegetarian
+2929,Bottle Gourd Subzi,Indian,Vegetarian
+2930,Buttery Badushah Delight,Indian,Festive
+2931,Badam ki barfi,Indian,Vegetarian
+2932,Bake Aloo-Jeera,Indian,Vegetarian
+2933,Spicy Brinjal Curry,Indian,Vegetarian
+2934,Basic Bread Pudding,Indian,Kid-Friendly
+2935,Aloo-Methi Rajwada,Indian,Vegetarian
+2936,Spicy Roti,Indian,Vegetarian
+2937,Methi Paneer,Indian,Vegetarian
+2938,Zucchini and Capsicum Salad,Indian,Vegetarian
+2939,Indian Gundruk and Sinki Soup,Indian,Vegetarian
+2940,Kolkata Doi Potol,Indian,Vegetarian
+2941,Arrowroot Biscuit Halwa,Indian,Kid-Friendly
+2942,Brinjal Dry Dish,Indian,Vegetarian
+2943,Besan Laddoo (Maharashtrian style),Indian,Festive
+2944,Banana Fritters with Butter Scotch Sauce,Continental,Kid-Friendly
+2945,Burfi,Indian,Festive
+2946,Apple and plum crumble,English,Vegetarian
+2947,Cabbage Sanna Appo (kuzhipaniyaram),Indian,Vegetarian
+2948,Madgane,Indian,Festive
+2949,Bread and Egg Scramble,Indian,Non-Vegetarian
+2950,Black eyed beans or mocchakottai kootu,Indian,Vegetarian
+2951,Asparagus Salad,Indian,Vegetarian
+2952,Beef Curry,Indian,Non-Vegetarian
+2953,Tangy Cabbage Adai,Indian,Vegetarian
+2954,Ragi Dosa,Indian,Kid-Friendly
+2955,Zucchini Channa dal,Indian,Vegetarian
+2956,Baigan dahi vada,Indian,Kid-Friendly
+2957,Badam sweet,Indian,Kid-Friendly
+2958,Mixed Veg Korma,Indian,Vegetarian
+2959,Brinjal coconut curry,Indian,Kid-Friendly
+2960,Black bean burritto,Mexican,Vegetarian
+2961,Cabbage Uthappam,Indian,Vegetarian
+2962,Bread Nutri Cutlet,Indian,Vegetarian
+2963,Avocado Tricolour Salad,Indian,Kid-Friendly
+2964,Brinjal Puliyita kootu,Indian,Vegetarian
+2965,Patholi,Indian,Kid-Friendly
+2966,Rosetta Rolls,Continental,Vegetarian
+2967,"Roasted Tomato, Pineapple & Coriander Salsa",Indian,Vegetarian
+2968,Shahi tukda with badam milk,Indian,Kid-Friendly
+2969,Simple Bread Poha,Indian,Kid-Friendly
+2970,Salad wraps,Indian,Vegetarian
+2971,Batate Coconut,Indian,Vegetarian
+2972,Rajma in Coconut Gravy,Indian,Kid-Friendly
+2973,Brinjal and Peas curry,Indian,Vegetarian
+2974,Rasam Veppambu,Indian,Vegetarian
+2975,Shankarpale,Indian,Kid-Friendly
+2976,Samosa Roll,Indian,Vegetarian
+2977,Special Pedhas,Indian,Festive
+2978,Shahi Methi Rajma,Indian,Vegetarian
+2979,Shredded Chicken Club sandwich,Indian,Kid-Friendly
+2980,Set Dosa,Indian,Kid-Friendly
+2981,Rameswaram Kootu,Indian,Kid-Friendly
+2982,Savoury Rounds with Roasted Corn and Capsicum Filling,Indian,Vegetarian
+2983,Raspberry Truffle,Continental,Kid-Friendly
+2984,Rice Cake,Indian,Vegetarian
+2985,Special Mysore Pak Dessert,Indian,Festive
+2986,Shahi Chidwa,Indian,Kid-Friendly
+2987,Rava Dosa Recipe,Indian,Festive
+2988,Ren's Pan-Broiled Steak:,Indian,Non-Vegetarian
+2989,Rice Flakes Chaat,Indian,Vegetarian
+2990,Special Marble Cake,American,Kid-Friendly
+2991,Slooshy Veggie Wraps,Indian,Kid-Friendly
+2992,Simple and Plain Potato Raita,Indian,Kid-Friendly
+2993,Besan Laddoo with Cashewnuts,Indian,Festive
+2994,Shahi Parathas,Indian,Festive
+2995,Rich Butter Chicken,Indian,Non-Vegetarian
+2996,Semolina Coconut Pudding,Asian,Festive
+2997,Special Orange Cake,Indian,Festive
+2998,Shahi Spinach Ke Gole,Indian,Vegetarian
+2999,Rassewale Aloo Ki Sabzi,Indian,Vegetarian

@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="description" content="Free web tutorials">
+   <meta name="author" content="Nihar">
+   <meta name="viewport" content="width=device-width,initial-scale=1.0">
+
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <title>Recommendation System</title>
+  </head>
+  <body>
+  <div class="content">
+      <h2>Recipe Recommendation System</h2>
+            <form action="/recommend" method="POST">
+                <label >Recipe name:</label>
+                <input type="text" name="recipename"><br><br>
+                <input type="submit" value="GO">
+            </form>
+<p>If you click the "GO" button, the form-data will be sent to a page called "/recommendation".</p>
+
+      <p>{{ query }}</p>
+        {% if result %}
+              {% for i in result %}
+                 <p>{{ i }}</p>
+              {% endfor %}
+        {% endif %}
+
+</div>
+</body>
+</html>
