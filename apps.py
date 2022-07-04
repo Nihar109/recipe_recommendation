@@ -18,13 +18,12 @@ def recommend():
     user_input = str(request.form.get('recipename'))
     try:
         recipe_name = sr.convert_elasticquery(user_input)
-        query = "Similar product for {} are:".format(recipe_name)
         result = sr.recommends(recipe_name)
     except Exception as e:
-        query = "No recipe name found on this keyword"
-        result = ""
+        recipe_name = None
+        result = None
 
-    return render_template('input.html', query=query, result=result)
+    return render_template('input.html', recipe_name=recipe_name, result=result)
 
 
 if __name__ == '__main__':
