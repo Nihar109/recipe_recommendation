@@ -2,6 +2,12 @@
 This project is a recommendation project for reciepe name from scraped data.
 
 
+## Project Steps
+- Collecting data from bawarchi.com
+- Recommendation model
+- Web Application
+
+
 ## How to get start:
 
 To use the project start with
