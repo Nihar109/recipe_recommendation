@@ -2,7 +2,7 @@
 This project is a recommendation project for reciepe name from scraped data.
 
 
-## Project Steps
+## Project Flow
 - Collecting data from bawarchi.com
 - Recommendation model
 - Web Application
