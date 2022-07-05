@@ -19,6 +19,7 @@ def recommend():
     try:
         recipe_name = sr.convert_elasticquery(user_input)
         result = sr.recommends(recipe_name)
+
     except Exception as e:
         recipe_name = None
         result = None

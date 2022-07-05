@@ -29,10 +29,19 @@ def convert_elasticquery(text):
     return title[0]['recipe_name']
 
 
+def find_recipe_name(text):
+    recipe_name_data = []
+    for name in recipe_data['recipe_name']:
+        if (text.lower() or text.capitlize() or text.upper()) in name:
+            recipe_name_data.append(name)
+
+    return recipe_name_data[0]
+
+
 def recommends(recipe):
     """Creating recommendation function to
        recommend most five recipe_name from
-       user input
+       user input.
     """
     recipe_index = recipe_data[recipe_data['recipe_name'] == recipe].index[0]
     recipe_list = sorted(list(enumerate(similarity[recipe_index])), reverse=True, key=lambda x: x[1])
